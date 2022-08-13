@@ -2,7 +2,7 @@
     {
       "Concelho": "Área Metropolitana do Porto",
       "Freguesia": "Área Metropolitana do Porto",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 31,
       "DADOS2011": 37
@@ -10,7 +10,7 @@
     {
       "Concelho": "Arouca",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 31,
       "DADOS2011": 34
@@ -18,7 +18,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Albergaria da Serra",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -26,7 +26,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Alvarenga",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 47,
       "DADOS2001": 33,
       "DADOS2011": 33
@@ -34,7 +34,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Arouca",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 20,
       "DADOS2011": " "
@@ -42,7 +42,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Burgo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -50,7 +50,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cabreiros",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 48,
       "DADOS2001": 49,
       "DADOS2011": " "
@@ -58,7 +58,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Canelas ",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -66,7 +66,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Chave",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 40,
       "DADOS2011": 35
@@ -74,7 +74,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Covelo de Paivó",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 51,
       "DADOS2001": 41,
       "DADOS2011": " "
@@ -82,7 +82,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Escariz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 48,
       "DADOS2001": 33,
       "DADOS2011": 34
@@ -90,7 +90,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Espiunca",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 40,
       "DADOS2001": 34,
       "DADOS2011": " "
@@ -98,7 +98,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fermedo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 37,
       "DADOS2011": 28
@@ -106,7 +106,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Janarde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 51,
       "DADOS2001": 59,
       "DADOS2011": " "
@@ -114,7 +114,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mansores",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 30,
       "DADOS2011": 19
@@ -122,7 +122,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Moldes",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 40,
       "DADOS2001": 30,
       "DADOS2011": 52
@@ -130,7 +130,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rossas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 29,
       "DADOS2011": 35
@@ -138,7 +138,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Santa Eulália",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 27,
       "DADOS2011": 32
@@ -146,7 +146,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Miguel do Mato",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 26,
       "DADOS2011": 42
@@ -154,7 +154,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Tropeço",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 39,
       "DADOS2001": 35,
       "DADOS2011": 39
@@ -162,7 +162,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Arouca e Burgo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 29
@@ -170,7 +170,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Cabreiros e Albergaria da Serra",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 27
@@ -178,7 +178,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Canelas e Espiunca",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 35
@@ -186,7 +186,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Covelo de Paivó e Janarde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 66
@@ -194,7 +194,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Urrô",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 34,
       "DADOS2011": 40
@@ -202,7 +202,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Várzea",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 24,
       "DADOS2011": 26
@@ -210,7 +210,7 @@
     {
       "Concelho": "Espinho",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 32,
       "DADOS2011": 40
@@ -218,7 +218,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Anta",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 20,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -226,7 +226,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Espinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 40,
       "DADOS2011": 44
@@ -234,7 +234,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guetim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -242,7 +242,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Paramos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 28,
       "DADOS2011": 39
@@ -250,7 +250,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Silvalde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 30,
       "DADOS2011": 45
@@ -258,7 +258,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Anta e Guetim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 35
@@ -266,7 +266,7 @@
     {
       "Concelho": "Gondomar",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 33,
       "DADOS2011": 38
@@ -274,7 +274,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Baguim do Monte (Rio Tinto)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 30,
       "DADOS2011": 33
@@ -282,7 +282,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Covelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 25,
       "DADOS2011": " "
@@ -290,7 +290,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fânzeres",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -298,7 +298,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Foz do Sousa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -306,7 +306,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gondomar (São Cosme)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -314,7 +314,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Jovim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -322,7 +322,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lomba",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 41,
       "DADOS2001": 38,
       "DADOS2011": 41
@@ -330,7 +330,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Medas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -338,7 +338,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Melres",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -346,7 +346,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rio Tinto",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 38,
       "DADOS2011": 44
@@ -354,7 +354,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Pedro da Cova",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -362,7 +362,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Fânzeres e São Pedro da Cova",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 37
@@ -370,7 +370,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Foz do Sousa e Covelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 37
@@ -378,7 +378,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Gondomar (São Cosme), Valbom e Jovim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -386,7 +386,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Melres e Medas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 37
@@ -394,7 +394,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Valbom",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 42,
       "DADOS2011": " "
@@ -402,7 +402,7 @@
     {
       "Concelho": "Maia",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 31,
       "DADOS2011": 36
@@ -410,7 +410,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Águas Santas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 37,
       "DADOS2011": 42
@@ -418,7 +418,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Avioso (Santa Maria)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -426,7 +426,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Avioso (São Pedro)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 25,
       "DADOS2011": " "
@@ -434,7 +434,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Barca",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -442,7 +442,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Castêlo da Maia",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 34
@@ -450,7 +450,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cidade da Maia",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 33
@@ -458,7 +458,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Folgosa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 32,
       "DADOS2011": 37
@@ -466,7 +466,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gemunde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -474,7 +474,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gondim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 22,
       "DADOS2011": " "
@@ -482,7 +482,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gueifães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -490,7 +490,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Maia",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -498,7 +498,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Milheirós",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 41,
       "DADOS2001": 28,
       "DADOS2011": 31
@@ -506,7 +506,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Moreira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 33,
       "DADOS2011": 38
@@ -514,7 +514,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Nogueira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -522,7 +522,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Nogueira e Silva Escura",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 35
@@ -530,7 +530,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Pedrouços",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 40,
       "DADOS2011": 42
@@ -538,7 +538,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Pedro Fins",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 31,
       "DADOS2011": 39
@@ -546,7 +546,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Silva Escura",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -554,7 +554,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vermoim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 23,
       "DADOS2001": 25,
       "DADOS2011": " "
@@ -562,7 +562,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Nova da Telha",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 22,
       "DADOS2001": 23,
       "DADOS2011": 29
@@ -570,7 +570,7 @@
     {
       "Concelho": "Matosinhos",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 35,
       "DADOS2011": 40
@@ -578,7 +578,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Custóias",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -586,7 +586,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guifões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 23,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -594,7 +594,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lavra",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 22,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -602,7 +602,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Leça da Palmeira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 37,
       "DADOS2011": " "
@@ -610,7 +610,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Leça do Balio",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -618,7 +618,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Matosinhos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 44,
       "DADOS2011": " "
@@ -626,7 +626,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Perafita",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -634,7 +634,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Santa Cruz do Bispo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 41,
       "DADOS2011": " "
@@ -642,7 +642,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Mamede de Infesta",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 40,
       "DADOS2011": " "
@@ -650,7 +650,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Senhora da Hora",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -658,7 +658,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Custóias, Leça do Balio e Guifões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 38
@@ -666,7 +666,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Matosinhos e Leça da Palmeira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 46
@@ -674,7 +674,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -682,7 +682,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de São Mamede de Infesta e Senhora da Hora",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 39
@@ -690,7 +690,7 @@
     {
       "Concelho": "Oliveira de Azeméis",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 32,
       "DADOS2011": 37
@@ -698,7 +698,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Carregosa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 28,
       "DADOS2011": 36
@@ -706,7 +706,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cesar",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 30,
       "DADOS2011": 33
@@ -714,7 +714,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fajões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 28,
       "DADOS2011": 33
@@ -722,7 +722,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Loureiro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 34,
       "DADOS2011": 37
@@ -730,7 +730,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Macieira de Sarnes",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 32,
       "DADOS2011": 37
@@ -738,7 +738,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Macinhata da Seixa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -746,7 +746,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Madail",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -754,7 +754,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Nogueira do Cravo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -762,7 +762,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Oliveira de Azeméis",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -770,7 +770,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Ossela",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 35,
       "DADOS2011": 44
@@ -778,7 +778,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Palmaz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -786,7 +786,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Pindelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -794,7 +794,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Pinheiro da Bemposta",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -802,7 +802,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Santiago de Riba-Ul",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -810,7 +810,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Martinho da Gândara",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 32,
       "DADOS2011": 34
@@ -818,7 +818,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Roque",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 30,
       "DADOS2011": 37
@@ -826,7 +826,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Travanca",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -834,7 +834,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Ul",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -842,7 +842,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Nogueira do Cravo e Pindelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 38
@@ -850,7 +850,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 38
@@ -858,7 +858,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 34
@@ -866,7 +866,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila de Cucujães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 31,
       "DADOS2011": 37
@@ -874,7 +874,7 @@
     {
       "Concelho": "Paredes",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 29,
       "DADOS2011": 33
@@ -882,7 +882,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Aguiar de Sousa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 40,
       "DADOS2001": 33,
       "DADOS2011": 42
@@ -890,7 +890,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Astromil",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 29,
       "DADOS2011": 33
@@ -898,7 +898,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Baltar",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 27,
       "DADOS2011": 32
@@ -906,7 +906,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Beire",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 27,
       "DADOS2011": 35
@@ -914,7 +914,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Besteiros",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -922,7 +922,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bitarães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -930,7 +930,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Castelões de Cepeda",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -938,7 +938,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cete",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 29,
       "DADOS2011": 36
@@ -946,7 +946,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cristelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 24,
       "DADOS2011": 31
@@ -954,7 +954,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Duas Igrejas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 32,
       "DADOS2011": 30
@@ -962,7 +962,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gandra",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 26,
       "DADOS2011": 30
@@ -970,7 +970,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gondalães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 46,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -978,7 +978,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lordelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 28,
       "DADOS2011": 36
@@ -986,7 +986,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Louredo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 26,
       "DADOS2011": 41
@@ -994,7 +994,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Madalena",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -1002,7 +1002,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mouriz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 39,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -1010,7 +1010,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Parada de Todeia",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 33,
       "DADOS2011": 32
@@ -1018,7 +1018,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Paredes",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 34
@@ -1026,7 +1026,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rebordosa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 29,
       "DADOS2011": 33
@@ -1034,7 +1034,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Recarei",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 28,
       "DADOS2011": 36
@@ -1042,7 +1042,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sobreira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 24,
       "DADOS2001": 28,
       "DADOS2011": 30
@@ -1050,7 +1050,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sobrosa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 31,
       "DADOS2011": 38
@@ -1058,7 +1058,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vandoma",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 29,
       "DADOS2011": 30
@@ -1066,7 +1066,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Cova de Carros",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 44,
       "DADOS2011": " "
@@ -1074,7 +1074,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilela",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 30,
       "DADOS2011": 30
@@ -1082,7 +1082,7 @@
     {
       "Concelho": "Porto",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 52,
       "DADOS2001": 55,
       "DADOS2011": 60
@@ -1090,7 +1090,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Aldoar",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -1098,7 +1098,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bonfim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 56,
       "DADOS2001": 62,
       "DADOS2011": 65
@@ -1106,7 +1106,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Campanhã",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 51,
       "DADOS2001": 58,
       "DADOS2011": 66
@@ -1114,7 +1114,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cedofeita",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 53,
       "DADOS2001": 58,
       "DADOS2011": " "
@@ -1122,7 +1122,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Foz do Douro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 64,
       "DADOS2001": 49,
       "DADOS2011": " "
@@ -1130,7 +1130,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lordelo do Ouro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 45,
       "DADOS2001": 47,
       "DADOS2011": " "
@@ -1138,7 +1138,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Massarelos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 58,
       "DADOS2001": 56,
       "DADOS2011": " "
@@ -1146,7 +1146,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Miragaia",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 74,
       "DADOS2001": 75,
       "DADOS2011": " "
@@ -1154,7 +1154,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Nevogilde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 41,
       "DADOS2011": " "
@@ -1162,7 +1162,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Paranhos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 50,
       "DADOS2011": 56
@@ -1170,7 +1170,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Ramalde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 43,
       "DADOS2001": 47,
       "DADOS2011": 53
@@ -1178,7 +1178,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Santo Ildefonso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 59,
       "DADOS2001": 61,
       "DADOS2011": " "
@@ -1186,7 +1186,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Nicolau",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 77,
       "DADOS2001": 83,
       "DADOS2011": " "
@@ -1194,7 +1194,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sé",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 76,
       "DADOS2001": 74,
       "DADOS2011": " "
@@ -1202,7 +1202,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Aldoar, Foz do Douro e Nevogilde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 43
@@ -1210,7 +1210,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 70
@@ -1218,7 +1218,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Lordelo do Ouro e Massarelos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 57
@@ -1226,7 +1226,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vitória",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 85,
       "DADOS2001": 69,
       "DADOS2011": " "
@@ -1234,7 +1234,7 @@
     {
       "Concelho": "Póvoa de Varzim",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 28,
       "DADOS2011": 32
@@ -1242,7 +1242,7 @@
     {
       "Concelho": " ",
       "Freguesia": "A Ver-o-Mar",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -1250,7 +1250,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Aguçadoura",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 21,
       "DADOS2001": 25,
       "DADOS2011": " "
@@ -1258,7 +1258,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Amorim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -1266,7 +1266,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Argivai",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -1274,7 +1274,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Balazar",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 29,
       "DADOS2011": 31
@@ -1282,7 +1282,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Beiriz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -1290,7 +1290,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Estela",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 22,
       "DADOS2001": 24,
       "DADOS2011": 26
@@ -1298,7 +1298,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Laundos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 24,
       "DADOS2011": 28
@@ -1306,7 +1306,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Navais",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -1314,7 +1314,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Póvoa de Varzim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -1322,7 +1322,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rates",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 28,
       "DADOS2011": 28
@@ -1330,7 +1330,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Terroso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -1338,7 +1338,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias da Póvoa de Varzim, Beiriz e Argivai",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 34
@@ -1346,7 +1346,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Aguçadoura e Navais",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 32
@@ -1354,7 +1354,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Aver-o-Mar, Amorim e Terroso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 31
@@ -1362,7 +1362,7 @@
     {
       "Concelho": "Santa Maria da Feira",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 27,
       "DADOS2011": 33
@@ -1370,7 +1370,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Argoncilhe",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 27,
       "DADOS2011": 37
@@ -1378,7 +1378,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Arrifana",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 32,
       "DADOS2011": 40
@@ -1386,7 +1386,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Caldas de São Jorge",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -1394,7 +1394,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Canedo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -1402,7 +1402,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Escapães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 26,
       "DADOS2011": 33
@@ -1410,7 +1410,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Espargo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -1418,7 +1418,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Feira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -1426,7 +1426,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fiães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 32,
       "DADOS2011": 36
@@ -1434,7 +1434,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fornos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 24,
       "DADOS2011": 31
@@ -1442,7 +1442,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gião",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 24,
       "DADOS2011": " "
@@ -1450,7 +1450,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guisande",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -1458,7 +1458,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lobão",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -1466,7 +1466,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Louredo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 41,
       "DADOS2001": 42,
       "DADOS2011": " "
@@ -1474,7 +1474,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lourosa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 28,
       "DADOS2011": 36
@@ -1482,7 +1482,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Milheirós de Poiares",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 27,
       "DADOS2011": 34
@@ -1490,7 +1490,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mosteirô",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -1498,7 +1498,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mozelos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 23,
       "DADOS2001": 26,
       "DADOS2011": 34
@@ -1506,7 +1506,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Nogueira da Regedoura",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 22,
       "DADOS2011": 29
@@ -1514,7 +1514,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Paços de Brandão",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 33,
       "DADOS2011": 34
@@ -1522,7 +1522,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Pigeiros",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 25,
       "DADOS2011": " "
@@ -1530,7 +1530,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rio Meão",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 22,
       "DADOS2011": 30
@@ -1538,7 +1538,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Romariz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 27,
       "DADOS2011": 34
@@ -1546,7 +1546,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sanfins",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -1554,7 +1554,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sanguedo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 25,
       "DADOS2011": 27
@@ -1562,7 +1562,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Santa Maria de Lamas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 32,
       "DADOS2011": 40
@@ -1570,7 +1570,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São João de Ver",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 24,
       "DADOS2011": 30
@@ -1578,7 +1578,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Paio de Oleiros",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 31,
       "DADOS2011": 37
@@ -1586,7 +1586,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Souto",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -1594,7 +1594,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Travanca",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -1602,7 +1602,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Caldas de São Jorge e Pigeiros",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 28
@@ -1610,7 +1610,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Canedo, Vale e Vila Maior",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 31
@@ -1618,7 +1618,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Lobão, Gião, Louredo e Guisande",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 32
@@ -1626,7 +1626,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 31
@@ -1634,7 +1634,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União de freguesias de São Miguel de Souto e Mosteirô",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 39
@@ -1642,7 +1642,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vale",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 24,
       "DADOS2011": " "
@@ -1650,7 +1650,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Maior",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 24,
       "DADOS2001": 23,
       "DADOS2011": " "
@@ -1658,7 +1658,7 @@
     {
       "Concelho": "Santo Tirso",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 30,
       "DADOS2011": 36
@@ -1666,7 +1666,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Agrela",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 21,
       "DADOS2001": 28,
       "DADOS2011": 37
@@ -1674,7 +1674,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Água Longa",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 41,
       "DADOS2001": 31,
       "DADOS2011": 31
@@ -1682,7 +1682,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Alvarelhos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1690,7 +1690,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Areias",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -1698,7 +1698,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Aves",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 30,
       "DADOS2011": 34
@@ -1706,7 +1706,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bougado (Santiago)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1714,7 +1714,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bougado (São Martinho)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1722,7 +1722,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Burgães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -1730,7 +1730,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Campo (São Martinho)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -1738,7 +1738,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Carreira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -1746,7 +1746,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Coronado (São Mamede)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1754,7 +1754,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Coronado (São Romão)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1762,7 +1762,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Couto (Santa Cristina)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -1770,7 +1770,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Couto (São Miguel)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -1778,7 +1778,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Covelas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1786,7 +1786,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guidões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1794,7 +1794,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guimarei",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 43,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -1802,7 +1802,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lama",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -1810,7 +1810,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lamelas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 24,
       "DADOS2011": " "
@@ -1818,7 +1818,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Monte Córdova",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 31,
       "DADOS2011": 33
@@ -1826,7 +1826,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Muro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": " ",
       "DADOS2011": " "
@@ -1834,7 +1834,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Negrelos (São Mamede)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -1842,7 +1842,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Negrelos (São Tomé)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 32,
       "DADOS2011": 41
@@ -1850,7 +1850,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Palmeira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -1858,7 +1858,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rebordões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 33,
       "DADOS2011": 39
@@ -1866,7 +1866,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Refojos de Riba de Ave",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 49,
       "DADOS2001": 40,
       "DADOS2011": " "
@@ -1874,7 +1874,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Reguenga",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 22,
       "DADOS2011": 30
@@ -1882,7 +1882,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Roriz",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 28,
       "DADOS2011": 34
@@ -1890,7 +1890,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Santo Tirso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -1898,7 +1898,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Salvador do Campo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 22,
       "DADOS2011": " "
@@ -1906,7 +1906,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sequeiró",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -1914,7 +1914,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Areias, Sequeiró, Lama e Palmeira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -1922,7 +1922,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Carreira e Refojos de Riba de Ave",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 31
@@ -1930,7 +1930,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Lamelas e Guimarei",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 44
@@ -1938,7 +1938,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 44
@@ -1946,7 +1946,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilarinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 24,
       "DADOS2001": 24,
       "DADOS2011": 29
@@ -1954,7 +1954,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Nova do Campo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -1962,7 +1962,7 @@
     {
       "Concelho": "São João da Madeira",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 34,
       "DADOS2011": 40
@@ -1970,7 +1970,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São João da Madeira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 34,
       "DADOS2011": 40
@@ -1978,7 +1978,7 @@
     {
       "Concelho": "Trofa",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 29,
       "DADOS2011": 34
@@ -1986,7 +1986,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Alvarelhos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -1994,7 +1994,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bougado (Santiago)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -2002,7 +2002,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bougado (São Martinho)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -2010,7 +2010,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Coronado (São Mamede)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -2018,7 +2018,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Coronado (São Romão)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -2026,7 +2026,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Covelas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 28,
       "DADOS2011": 43
@@ -2034,7 +2034,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guidões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -2042,7 +2042,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Muro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": 28,
       "DADOS2011": 36
@@ -2050,7 +2050,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Alvarelhos e Guidões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 37
@@ -2058,7 +2058,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Bougado (São Martinho e Santiago)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 32
@@ -2066,7 +2066,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Coronado (São Romão e São Mamede)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 34
@@ -2074,7 +2074,7 @@
     {
       "Concelho": "Vale de Cambra",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 28,
       "DADOS2011": 36
@@ -2082,7 +2082,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Arões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 31,
       "DADOS2011": 34
@@ -2090,7 +2090,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Cepelos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 27,
       "DADOS2011": 34
@@ -2098,7 +2098,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Codal",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 21,
       "DADOS2011": " "
@@ -2106,7 +2106,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Junqueira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 42,
       "DADOS2001": 37,
       "DADOS2011": 39
@@ -2114,7 +2114,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Macieira de Cambra",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 31,
       "DADOS2011": 37
@@ -2122,7 +2122,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Roge",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 30,
       "DADOS2011": 32
@@ -2130,7 +2130,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Pedro de Castelões",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 25,
       "DADOS2011": 34
@@ -2138,7 +2138,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 40
@@ -2146,7 +2146,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Chã",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 26,
       "DADOS2011": " "
@@ -2154,7 +2154,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Cova de Perrinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -2162,7 +2162,7 @@
     {
       "Concelho": "Valongo",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 29,
       "DADOS2011": 34
@@ -2170,7 +2170,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Alfena",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 27,
       "DADOS2011": 32
@@ -2178,7 +2178,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Campo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -2186,7 +2186,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Ermesinde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 31,
       "DADOS2011": 36
@@ -2194,7 +2194,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sobrado",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 32,
       "DADOS2011": " "
@@ -2202,7 +2202,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Campo e Sobrado",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 32
@@ -2210,7 +2210,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Valongo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 30,
       "DADOS2011": 35
@@ -2218,7 +2218,7 @@
     {
       "Concelho": "Vila do Conde",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 30,
       "DADOS2011": 36
@@ -2226,7 +2226,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Arcos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 38,
       "DADOS2011": " "
@@ -2234,7 +2234,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Árvore",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 24,
       "DADOS2001": 22,
       "DADOS2011": 30
@@ -2242,7 +2242,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Aveleda",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 26,
       "DADOS2001": 32,
       "DADOS2011": 49
@@ -2250,7 +2250,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Azurara",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 29,
       "DADOS2011": 26
@@ -2258,7 +2258,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Bagunte",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 43,
       "DADOS2001": 34,
       "DADOS2011": " "
@@ -2266,7 +2266,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Canidelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -2274,7 +2274,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fajozes",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 38,
       "DADOS2011": 46
@@ -2282,7 +2282,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Ferreiró",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 42,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -2290,7 +2290,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Fornelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -2298,7 +2298,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gião",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 48,
       "DADOS2001": 33,
       "DADOS2011": 38
@@ -2306,7 +2306,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Guilhabreu",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 27,
       "DADOS2011": 35
@@ -2314,7 +2314,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Junqueira",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 33,
       "DADOS2011": 38
@@ -2322,7 +2322,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Labruge",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 24,
       "DADOS2011": 38
@@ -2330,7 +2330,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Macieira da Maia",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 31,
       "DADOS2001": 27,
       "DADOS2011": 38
@@ -2338,7 +2338,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Malta",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 34,
       "DADOS2011": " "
@@ -2346,7 +2346,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mindelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 18,
       "DADOS2001": 24,
       "DADOS2011": 33
@@ -2354,7 +2354,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Modivas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 34,
       "DADOS2011": 36
@@ -2362,7 +2362,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mosteiró",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 45,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -2370,7 +2370,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Outeiro Maior",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 41,
       "DADOS2001": 16,
       "DADOS2011": " "
@@ -2378,7 +2378,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Parada",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -2386,7 +2386,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Retorta",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -2394,7 +2394,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Rio Mau",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -2402,7 +2402,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Tougues",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 39,
       "DADOS2001": 39,
       "DADOS2011": " "
@@ -2410,7 +2410,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Touguinha",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 21,
       "DADOS2011": " "
@@ -2418,7 +2418,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Touguinhó",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 36,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -2426,7 +2426,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -2434,7 +2434,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Fornelo e Vairão",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 53
@@ -2442,7 +2442,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Malta e Canidelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 37
@@ -2450,7 +2450,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Retorta e Tougues",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 47
@@ -2458,7 +2458,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Rio Mau e Arcos",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 27
@@ -2466,7 +2466,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Touguinha e Touguinhó",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -2474,7 +2474,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Vilar e Mosteiró",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 46
@@ -2482,7 +2482,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vairão",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 40,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -2490,7 +2490,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Chã",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 24,
       "DADOS2001": 24,
       "DADOS2011": 31
@@ -2498,7 +2498,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila do Conde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 31,
       "DADOS2011": 32
@@ -2506,7 +2506,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilar",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 44,
       "DADOS2001": 36,
       "DADOS2011": " "
@@ -2514,7 +2514,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilar de Pinheiro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 36,
       "DADOS2011": 41
@@ -2522,7 +2522,7 @@
     {
       "Concelho": "Vila Nova de Gaia",
       "Freguesia": "Concelho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 33,
       "DADOS2001": 34,
       "DADOS2011": 40
@@ -2530,7 +2530,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Arcozelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 30,
       "DADOS2011": 40
@@ -2538,7 +2538,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Avintes",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 40,
       "DADOS2011": 44
@@ -2546,7 +2546,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Canelas",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 29,
       "DADOS2011": 32
@@ -2554,7 +2554,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Canidelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 25,
       "DADOS2001": 28,
       "DADOS2011": 33
@@ -2562,7 +2562,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Crestuma",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 37,
       "DADOS2001": 35,
       "DADOS2011": " "
@@ -2570,7 +2570,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Grijó",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 27,
       "DADOS2011": " "
@@ -2578,7 +2578,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Gulpilhares",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 30,
       "DADOS2011": " "
@@ -2586,7 +2586,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Lever",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 31,
       "DADOS2011": " "
@@ -2594,7 +2594,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Madalena",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 32,
       "DADOS2011": 36
@@ -2602,7 +2602,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Mafamude",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 38,
       "DADOS2011": " "
@@ -2610,7 +2610,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Olival",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 28,
       "DADOS2011": " "
@@ -2618,7 +2618,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Oliveira do Douro",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 38,
       "DADOS2001": 39,
       "DADOS2011": 45
@@ -2626,7 +2626,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Pedroso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 28,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -2634,7 +2634,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Perozinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -2642,7 +2642,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sandim",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 27,
       "DADOS2001": 25,
       "DADOS2011": " "
@@ -2650,7 +2650,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Félix da Marinha",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 32,
       "DADOS2001": 32,
       "DADOS2011": 36
@@ -2658,7 +2658,7 @@
     {
       "Concelho": " ",
       "Freguesia": "São Pedro da Afurada",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 54,
       "DADOS2001": 56,
       "DADOS2011": " "
@@ -2666,7 +2666,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Seixezelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 24,
       "DADOS2001": 24,
       "DADOS2011": " "
@@ -2674,7 +2674,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Sermonde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 42,
       "DADOS2001": 29,
       "DADOS2011": " "
@@ -2682,7 +2682,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Serzedo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 30,
       "DADOS2001": 33,
       "DADOS2011": " "
@@ -2690,7 +2690,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Grijó e Sermonde",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 35
@@ -2698,7 +2698,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Gulpilhares e Valadares",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 35
@@ -2706,7 +2706,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Mafamude e Vilar do Paraíso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 44
@@ -2714,7 +2714,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Pedroso e Seixezelo",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 36
@@ -2722,7 +2722,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Sandim, Olival, Lever e Crestuma",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 35
@@ -2730,7 +2730,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Santa Marinha e São Pedro da Afurada",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 60
@@ -2738,7 +2738,7 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Serzedo e Perosinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": " ",
       "DADOS2001": " ",
       "DADOS2011": 38
@@ -2746,7 +2746,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Valadares",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 34,
       "DADOS2001": 34,
       "DADOS2011": " "
@@ -2754,7 +2754,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vila Nova de Gaia (Santa Marinha)",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 49,
       "DADOS2001": 50,
       "DADOS2011": " "
@@ -2762,7 +2762,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilar de Andorinho",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 29,
       "DADOS2001": 27,
       "DADOS2011": 35
@@ -2770,7 +2770,7 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilar do Paraíso",
-      "IdadeMedia": "Total",
+      "IdadeMedia": "Anos",
       "DADOS1991": 35,
       "DADOS2001": 35,
       "DADOS2011": " "
