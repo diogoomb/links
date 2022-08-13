@@ -1,0 +1,2274 @@
+ [
+    {
+      "Concelho": "Área Metropolitana do Porto",
+      "Freguesia": "Área Metropolitana do Porto",
+      "Densidade": "Total",
+      "DADOS2001": 580,
+      "DADOS2011": 658,
+      "VAR1101": "13.34%"
+    },
+    {
+      "Concelho": "Arouca",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 29,
+      "DADOS2011": 33,
+      "VAR1101": "14.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Albergaria da Serra",
+      "Densidade": "Total",
+      "DADOS2001": 5,
+      "DADOS2011": 6,
+      "VAR1101": "14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarenga",
+      "Densidade": "Total",
+      "DADOS2001": 22,
+      "DADOS2011": 22,
+      "VAR1101": "-1.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arouca",
+      "Densidade": "Total",
+      "DADOS2001": 148,
+      "DADOS2011": 173,
+      "VAR1101": "16.64%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Burgo",
+      "Densidade": "Total",
+      "DADOS2001": 119,
+      "DADOS2011": 136,
+      "VAR1101": "14.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cabreiros",
+      "Densidade": "Total",
+      "DADOS2001": 5,
+      "DADOS2011": 5,
+      "VAR1101": "20.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas ",
+      "Densidade": "Total",
+      "DADOS2001": 13,
+      "DADOS2011": 15,
+      "VAR1101": "17.27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Chave",
+      "Densidade": "Total",
+      "DADOS2001": 52,
+      "DADOS2011": 59,
+      "VAR1101": "13.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelo de Paivó",
+      "Densidade": "Total",
+      "DADOS2001": 2,
+      "DADOS2011": 2,
+      "VAR1101": "22.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escariz",
+      "Densidade": "Total",
+      "DADOS2001": 45,
+      "DADOS2011": 53,
+      "VAR1101": "18.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espiunca",
+      "Densidade": "Total",
+      "DADOS2001": 14,
+      "DADOS2011": 16,
+      "VAR1101": "12.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fermedo",
+      "Densidade": "Total",
+      "DADOS2001": 51,
+      "DADOS2011": 60,
+      "VAR1101": "18.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Janarde",
+      "Densidade": "Total",
+      "DADOS2001": 5,
+      "DADOS2011": 6,
+      "VAR1101": "8.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mansores",
+      "Densidade": "Total",
+      "DADOS2001": 28,
+      "DADOS2011": 32,
+      "VAR1101": "14.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moldes",
+      "Densidade": "Total",
+      "DADOS2001": 16,
+      "DADOS2011": 21,
+      "VAR1101": "32.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rossas",
+      "Densidade": "Total",
+      "DADOS2001": 54,
+      "DADOS2011": 68,
+      "VAR1101": "25.4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Eulália",
+      "Densidade": "Total",
+      "DADOS2001": 39,
+      "DADOS2011": 42,
+      "VAR1101": "8.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Miguel do Mato",
+      "Densidade": "Total",
+      "DADOS2001": 17,
+      "DADOS2011": 18,
+      "VAR1101": "3.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tropeço",
+      "Densidade": "Total",
+      "DADOS2001": 30,
+      "DADOS2011": 30,
+      "VAR1101": "1.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Urrô",
+      "Densidade": "Total",
+      "DADOS2001": 41,
+      "DADOS2011": 47,
+      "VAR1101": "13.96%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Várzea",
+      "Densidade": "Total",
+      "DADOS2001": 108,
+      "DADOS2011": 129,
+      "VAR1101": "19.1%"
+    },
+    {
+      "Concelho": "Espinho",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 691,
+      "DADOS2011": 749,
+      "VAR1101": "8.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Anta",
+      "Densidade": "Total",
+      "DADOS2001": 683,
+      "DADOS2011": 772,
+      "VAR1101": "12.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espinho",
+      "Densidade": "Total",
+      "DADOS2001": 3293,
+      "DADOS2011": 3571,
+      "VAR1101": "8.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guetim",
+      "Densidade": "Total",
+      "DADOS2001": 266,
+      "DADOS2011": 292,
+      "VAR1101": "9.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paramos",
+      "Densidade": "Total",
+      "DADOS2001": 242,
+      "DADOS2011": 253,
+      "VAR1101": "4.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silvalde",
+      "Densidade": "Total",
+      "DADOS2001": 499,
+      "DADOS2011": 508,
+      "VAR1101": "1.86%"
+    },
+    {
+      "Concelho": "Gondomar",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 497,
+      "DADOS2011": 557,
+      "VAR1101": "12.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baguim do Monte (Rio Tinto)",
+      "Densidade": "Total",
+      "DADOS2001": 1002,
+      "DADOS2011": 1151,
+      "VAR1101": "14.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelo",
+      "Densidade": "Total",
+      "DADOS2001": 51,
+      "DADOS2011": 55,
+      "VAR1101": "8.08%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fânzeres",
+      "Densidade": "Total",
+      "DADOS2001": 1085,
+      "DADOS2011": 1240,
+      "VAR1101": "14.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Foz do Sousa",
+      "Densidade": "Total",
+      "DADOS2001": 112,
+      "DADOS2011": 122,
+      "VAR1101": "8.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondomar (São Cosme)",
+      "Densidade": "Total",
+      "DADOS2001": 891,
+      "DADOS2011": 975,
+      "VAR1101": "9.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Jovim",
+      "Densidade": "Total",
+      "DADOS2001": 331,
+      "DADOS2011": 388,
+      "VAR1101": "17.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lomba",
+      "Densidade": "Total",
+      "DADOS2001": 53,
+      "DADOS2011": 57,
+      "VAR1101": "6.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Medas",
+      "Densidade": "Total",
+      "DADOS2001": 79,
+      "DADOS2011": 80,
+      "VAR1101": "1.38%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Melres",
+      "Densidade": "Total",
+      "DADOS2001": 71,
+      "DADOS2011": 76,
+      "VAR1101": "6.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Tinto",
+      "Densidade": "Total",
+      "DADOS2001": 2221,
+      "DADOS2011": 2542,
+      "VAR1101": "14.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro da Cova",
+      "Densidade": "Total",
+      "DADOS2001": 445,
+      "DADOS2011": 475,
+      "VAR1101": "6.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valbom",
+      "Densidade": "Total",
+      "DADOS2001": 1379,
+      "DADOS2011": 1505,
+      "VAR1101": "9.14%"
+    },
+    {
+      "Concelho": "Maia",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 586,
+      "DADOS2011": 718,
+      "VAR1101": "22.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Águas Santas",
+      "Densidade": "Total",
+      "DADOS2001": 1268,
+      "DADOS2011": 1480,
+      "VAR1101": "16.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avioso (Santa Maria)",
+      "Densidade": "Total",
+      "DADOS2001": 305,
+      "DADOS2011": 408,
+      "VAR1101": "33.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avioso (São Pedro)",
+      "Densidade": "Total",
+      "DADOS2001": 227,
+      "DADOS2011": 366,
+      "VAR1101": "61.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Barca",
+      "Densidade": "Total",
+      "DADOS2001": 291,
+      "DADOS2011": 316,
+      "VAR1101": "8.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Folgosa",
+      "Densidade": "Total",
+      "DADOS2001": 126,
+      "DADOS2011": 150,
+      "VAR1101": "18.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gemunde",
+      "Densidade": "Total",
+      "DADOS2001": 317,
+      "DADOS2011": 387,
+      "VAR1101": "22.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondim",
+      "Densidade": "Total",
+      "DADOS2001": 525,
+      "DADOS2011": 588,
+      "VAR1101": "12.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gueifães",
+      "Densidade": "Total",
+      "DADOS2001": 1530,
+      "DADOS2011": 1772,
+      "VAR1101": "15.84%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Maia",
+      "Densidade": "Total",
+      "DADOS2001": 1230,
+      "DADOS2011": 1663,
+      "VAR1101": "35.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós",
+      "Densidade": "Total",
+      "DADOS2001": 454,
+      "DADOS2011": 553,
+      "VAR1101": "21.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moreira",
+      "Densidade": "Total",
+      "DADOS2001": 502,
+      "DADOS2011": 672,
+      "VAR1101": "34.02%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira",
+      "Densidade": "Total",
+      "DADOS2001": 501,
+      "DADOS2011": 682,
+      "VAR1101": "36.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedrouços",
+      "Densidade": "Total",
+      "DADOS2001": 2031,
+      "DADOS2011": 2413,
+      "VAR1101": "18.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro Fins",
+      "Densidade": "Total",
+      "DADOS2001": 136,
+      "DADOS2011": 155,
+      "VAR1101": "13.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silva Escura",
+      "Densidade": "Total",
+      "DADOS2001": 154,
+      "DADOS2011": 186,
+      "VAR1101": "21.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vermoim",
+      "Densidade": "Total",
+      "DADOS2001": 1403,
+      "DADOS2011": 1624,
+      "VAR1101": "15.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova da Telha",
+      "Densidade": "Total",
+      "DADOS2001": 357,
+      "DADOS2011": 434,
+      "VAR1101": "21.75%"
+    },
+    {
+      "Concelho": "Matosinhos",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 1096,
+      "DADOS2011": 1317,
+      "VAR1101": "20.23%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Custóias",
+      "Densidade": "Total",
+      "DADOS2001": 1075,
+      "DADOS2011": 1259,
+      "VAR1101": "17.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guifões",
+      "Densidade": "Total",
+      "DADOS2001": 975,
+      "DADOS2011": 1123,
+      "VAR1101": "15.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lavra",
+      "Densidade": "Total",
+      "DADOS2001": 378,
+      "DADOS2011": 478,
+      "VAR1101": "26.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Leça da Palmeira",
+      "Densidade": "Total",
+      "DADOS2001": 1072,
+      "DADOS2011": 1318,
+      "VAR1101": "23%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Leça do Balio",
+      "Densidade": "Total",
+      "DADOS2001": 684,
+      "DADOS2011": 847,
+      "VAR1101": "23.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Matosinhos",
+      "Densidade": "Total",
+      "DADOS2001": 2447,
+      "DADOS2011": 3004,
+      "VAR1101": "22.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Perafita",
+      "Densidade": "Total",
+      "DADOS2001": 524,
+      "DADOS2011": 678,
+      "VAR1101": "29.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Cruz do Bispo",
+      "Densidade": "Total",
+      "DADOS2001": 601,
+      "DADOS2011": 604,
+      "VAR1101": "0.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Mamede de Infesta",
+      "Densidade": "Total",
+      "DADOS2001": 2157,
+      "DADOS2011": 2458,
+      "VAR1101": "13.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Senhora da Hora",
+      "Densidade": "Total",
+      "DADOS2001": 2994,
+      "DADOS2011": 3437,
+      "VAR1101": "14.79%"
+    },
+    {
+      "Concelho": "Oliveira de Azeméis",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 162,
+      "DADOS2011": 186,
+      "VAR1101": "15.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carregosa",
+      "Densidade": "Total",
+      "DADOS2001": 125,
+      "DADOS2011": 139,
+      "VAR1101": "11.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cesar",
+      "Densidade": "Total",
+      "DADOS2001": 219,
+      "DADOS2011": 261,
+      "VAR1101": "19.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajões",
+      "Densidade": "Total",
+      "DADOS2001": 144,
+      "DADOS2011": 161,
+      "VAR1101": "12.08%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Loureiro",
+      "Densidade": "Total",
+      "DADOS2001": 75,
+      "DADOS2011": 84,
+      "VAR1101": "11.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Sarnes",
+      "Densidade": "Total",
+      "DADOS2001": 206,
+      "DADOS2011": 223,
+      "VAR1101": "8.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macinhata da Seixa",
+      "Densidade": "Total",
+      "DADOS2001": 198,
+      "DADOS2011": 177,
+      "VAR1101": "-10.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madail",
+      "Densidade": "Total",
+      "DADOS2001": 148,
+      "DADOS2011": 160,
+      "VAR1101": "7.73%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira do Cravo",
+      "Densidade": "Total",
+      "DADOS2001": 208,
+      "DADOS2011": 240,
+      "VAR1101": "15.28%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira de Azeméis",
+      "Densidade": "Total",
+      "DADOS2001": 623,
+      "DADOS2011": 612,
+      "VAR1101": "-1.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ossela",
+      "Densidade": "Total",
+      "DADOS2001": 44,
+      "DADOS2011": 55,
+      "VAR1101": "23.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Palmaz",
+      "Densidade": "Total",
+      "DADOS2001": 47,
+      "DADOS2011": 65,
+      "VAR1101": "37.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pindelo",
+      "Densidade": "Total",
+      "DADOS2001": 132,
+      "DADOS2011": 148,
+      "VAR1101": "12.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pinheiro da Bemposta",
+      "Densidade": "Total",
+      "DADOS2001": 105,
+      "DADOS2011": 122,
+      "VAR1101": "16.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santiago de Riba-Ul",
+      "Densidade": "Total",
+      "DADOS2001": 262,
+      "DADOS2011": 274,
+      "VAR1101": "4.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Martinho da Gândara",
+      "Densidade": "Total",
+      "DADOS2001": 95,
+      "DADOS2011": 100,
+      "VAR1101": "4.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Roque",
+      "Densidade": "Total",
+      "DADOS2001": 281,
+      "DADOS2011": 311,
+      "VAR1101": "10.61%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Travanca",
+      "Densidade": "Total",
+      "DADOS2001": 114,
+      "DADOS2011": 116,
+      "VAR1101": "1.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ul",
+      "Densidade": "Total",
+      "DADOS2001": 212,
+      "DADOS2011": 214,
+      "VAR1101": "1.02%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila de Cucujães",
+      "Densidade": "Total",
+      "DADOS2001": 374,
+      "DADOS2011": 442,
+      "VAR1101": "18.23%"
+    },
+    {
+      "Concelho": "Paredes",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 181,
+      "DADOS2011": 219,
+      "VAR1101": "20.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguiar de Sousa",
+      "Densidade": "Total",
+      "DADOS2001": 25,
+      "DADOS2011": 29,
+      "VAR1101": "18.09%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Astromil",
+      "Densidade": "Total",
+      "DADOS2001": 157,
+      "DADOS2011": 207,
+      "VAR1101": "32.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baltar",
+      "Densidade": "Total",
+      "DADOS2001": 226,
+      "DADOS2011": 276,
+      "VAR1101": "22.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beire",
+      "Densidade": "Total",
+      "DADOS2001": 225,
+      "DADOS2011": 223,
+      "VAR1101": "-0.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Besteiros",
+      "Densidade": "Total",
+      "DADOS2001": 227,
+      "DADOS2011": 250,
+      "VAR1101": "9.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bitarães",
+      "Densidade": "Total",
+      "DADOS2001": 197,
+      "DADOS2011": 266,
+      "VAR1101": "34.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Castelões de Cepeda",
+      "Densidade": "Total",
+      "DADOS2001": 912,
+      "DADOS2011": 1219,
+      "VAR1101": "33.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cete",
+      "Densidade": "Total",
+      "DADOS2001": 204,
+      "DADOS2011": 281,
+      "VAR1101": "38.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cristelo",
+      "Densidade": "Total",
+      "DADOS2001": 302,
+      "DADOS2011": 350,
+      "VAR1101": "15.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Duas Igrejas",
+      "Densidade": "Total",
+      "DADOS2001": 306,
+      "DADOS2011": 361,
+      "VAR1101": "17.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gandra",
+      "Densidade": "Total",
+      "DADOS2001": 175,
+      "DADOS2011": 267,
+      "VAR1101": "52.28%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondalães",
+      "Densidade": "Total",
+      "DADOS2001": 178,
+      "DADOS2011": 237,
+      "VAR1101": "32.94%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo",
+      "Densidade": "Total",
+      "DADOS2001": 343,
+      "DADOS2011": 383,
+      "VAR1101": "11.51%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "Densidade": "Total",
+      "DADOS2001": 78,
+      "DADOS2011": 90,
+      "VAR1101": "15.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "Densidade": "Total",
+      "DADOS2001": 350,
+      "DADOS2011": 454,
+      "VAR1101": "29.69%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mouriz",
+      "Densidade": "Total",
+      "DADOS2001": 178,
+      "DADOS2011": 244,
+      "VAR1101": "37.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada de Todeia",
+      "Densidade": "Total",
+      "DADOS2001": 187,
+      "DADOS2011": 220,
+      "VAR1101": "17.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordosa",
+      "Densidade": "Total",
+      "DADOS2001": 339,
+      "DADOS2011": 324,
+      "VAR1101": "-4.62%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Recarei",
+      "Densidade": "Total",
+      "DADOS2001": 101,
+      "DADOS2011": 117,
+      "VAR1101": "16.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobreira",
+      "Densidade": "Total",
+      "DADOS2001": 67,
+      "DADOS2011": 74,
+      "VAR1101": "10.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrosa",
+      "Densidade": "Total",
+      "DADOS2001": 172,
+      "DADOS2011": 204,
+      "VAR1101": "18.64%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vandoma",
+      "Densidade": "Total",
+      "DADOS2001": 138,
+      "DADOS2011": 174,
+      "VAR1101": "26.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Cova de Carros",
+      "Densidade": "Total",
+      "DADOS2001": 70,
+      "DADOS2011": 84,
+      "VAR1101": "18.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilela",
+      "Densidade": "Total",
+      "DADOS2001": 308,
+      "DADOS2011": 372,
+      "VAR1101": "20.76%"
+    },
+    {
+      "Concelho": "Porto",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 3028,
+      "DADOS2011": 3329,
+      "VAR1101": "9.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aldoar",
+      "Densidade": "Total",
+      "DADOS2001": 2203,
+      "DADOS2011": 2432,
+      "VAR1101": "10.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bonfim",
+      "Densidade": "Total",
+      "DADOS2001": 4771,
+      "DADOS2011": 4872,
+      "VAR1101": "2.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campanhã",
+      "Densidade": "Total",
+      "DADOS2001": 2037,
+      "DADOS2011": 2046,
+      "VAR1101": "0.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cedofeita",
+      "Densidade": "Total",
+      "DADOS2001": 5163,
+      "DADOS2011": 5835,
+      "VAR1101": "13.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Foz do Douro",
+      "Densidade": "Total",
+      "DADOS2001": 2860,
+      "DADOS2011": 2828,
+      "VAR1101": "-1.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo do Ouro",
+      "Densidade": "Total",
+      "DADOS2001": 2461,
+      "DADOS2011": 3000,
+      "VAR1101": "21.94%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Massarelos",
+      "Densidade": "Total",
+      "DADOS2001": 2122,
+      "DADOS2011": 2260,
+      "VAR1101": "6.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Miragaia",
+      "Densidade": "Total",
+      "DADOS2001": 4152,
+      "DADOS2011": 3585,
+      "VAR1101": "-13.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nevogilde",
+      "Densidade": "Total",
+      "DADOS2001": 1251,
+      "DADOS2011": 1337,
+      "VAR1101": "6.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paranhos",
+      "Densidade": "Total",
+      "DADOS2001": 3241,
+      "DADOS2011": 3802,
+      "VAR1101": "17.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ramalde",
+      "Densidade": "Total",
+      "DADOS2001": 2799,
+      "DADOS2011": 3238,
+      "VAR1101": "15.68%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santo Ildefonso",
+      "Densidade": "Total",
+      "DADOS2001": 5519,
+      "DADOS2011": 5840,
+      "VAR1101": "5.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Nicolau",
+      "Densidade": "Total",
+      "DADOS2001": 5563,
+      "DADOS2011": 6403,
+      "VAR1101": "15.09%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sé",
+      "Densidade": "Total",
+      "DADOS2001": 5394,
+      "DADOS2011": 5745,
+      "VAR1101": "6.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vitória",
+      "Densidade": "Total",
+      "DADOS2001": 5176,
+      "DADOS2011": 5938,
+      "VAR1101": "14.72%"
+    },
+    {
+      "Concelho": "Póvoa de Varzim",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 372,
+      "DADOS2011": 425,
+      "VAR1101": "14.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "A Ver-o-Mar",
+      "Densidade": "Total",
+      "DADOS2001": 1026,
+      "DADOS2011": 1246,
+      "VAR1101": "21.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguçadoura",
+      "Densidade": "Total",
+      "DADOS2001": 437,
+      "DADOS2011": 464,
+      "VAR1101": "6.27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Amorim",
+      "Densidade": "Total",
+      "DADOS2001": 196,
+      "DADOS2011": 214,
+      "VAR1101": "9.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argivai",
+      "Densidade": "Total",
+      "DADOS2001": 284,
+      "DADOS2011": 306,
+      "VAR1101": "7.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Balazar",
+      "Densidade": "Total",
+      "DADOS2001": 71,
+      "DADOS2011": 94,
+      "VAR1101": "33.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beiriz",
+      "Densidade": "Total",
+      "DADOS2001": 247,
+      "DADOS2011": 318,
+      "VAR1101": "29.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Estela",
+      "Densidade": "Total",
+      "DADOS2001": 80,
+      "DADOS2011": 80,
+      "VAR1101": "0.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Laundos",
+      "Densidade": "Total",
+      "DADOS2001": 78,
+      "DADOS2011": 92,
+      "VAR1101": "18.94%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Navais",
+      "Densidade": "Total",
+      "DADOS2001": 160,
+      "DADOS2011": 154,
+      "VAR1101": "-3.62%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Póvoa de Varzim",
+      "Densidade": "Total",
+      "DADOS2001": 3373,
+      "DADOS2011": 3709,
+      "VAR1101": "9.96%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rates",
+      "Densidade": "Total",
+      "DADOS2001": 60,
+      "DADOS2011": 63,
+      "VAR1101": "6.3%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Terroso",
+      "Densidade": "Total",
+      "DADOS2001": 140,
+      "DADOS2011": 147,
+      "VAR1101": "5.14%"
+    },
+    {
+      "Concelho": "Santa Maria da Feira",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 244,
+      "DADOS2011": 281,
+      "VAR1101": "15.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argoncilhe",
+      "Densidade": "Total",
+      "DADOS2001": 396,
+      "DADOS2011": 422,
+      "VAR1101": "6.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arrifana",
+      "Densidade": "Total",
+      "DADOS2001": 481,
+      "DADOS2011": 540,
+      "VAR1101": "12.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Caldas de São Jorge",
+      "Densidade": "Total",
+      "DADOS2001": 196,
+      "DADOS2011": 214,
+      "VAR1101": "9.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canedo",
+      "Densidade": "Total",
+      "DADOS2001": 90,
+      "DADOS2011": 99,
+      "VAR1101": "11.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escapães",
+      "Densidade": "Total",
+      "DADOS2001": 245,
+      "DADOS2011": 327,
+      "VAR1101": "33.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espargo",
+      "Densidade": "Total",
+      "DADOS2001": 108,
+      "DADOS2011": 143,
+      "VAR1101": "32.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Feira",
+      "Densidade": "Total",
+      "DADOS2001": 460,
+      "DADOS2011": 566,
+      "VAR1101": "23.05%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fiães",
+      "Densidade": "Total",
+      "DADOS2001": 483,
+      "DADOS2011": 513,
+      "VAR1101": "6.23%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornos",
+      "Densidade": "Total",
+      "DADOS2001": 322,
+      "DADOS2011": 466,
+      "VAR1101": "44.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "Densidade": "Total",
+      "DADOS2001": 212,
+      "DADOS2011": 243,
+      "VAR1101": "14.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guisande",
+      "Densidade": "Total",
+      "DADOS2001": 121,
+      "DADOS2011": 132,
+      "VAR1101": "8.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lobão",
+      "Densidade": "Total",
+      "DADOS2001": 294,
+      "DADOS2011": 348,
+      "VAR1101": "18.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "Densidade": "Total",
+      "DADOS2001": 170,
+      "DADOS2011": 208,
+      "VAR1101": "22.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lourosa",
+      "Densidade": "Total",
+      "DADOS2001": 608,
+      "DADOS2011": 650,
+      "VAR1101": "6.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós de Poiares",
+      "Densidade": "Total",
+      "DADOS2001": 185,
+      "DADOS2011": 195,
+      "VAR1101": "5.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mosteirô",
+      "Densidade": "Total",
+      "DADOS2001": 221,
+      "DADOS2011": 247,
+      "VAR1101": "11.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mozelos",
+      "Densidade": "Total",
+      "DADOS2001": 418,
+      "DADOS2011": 513,
+      "VAR1101": "22.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira da Regedoura",
+      "Densidade": "Total",
+      "DADOS2001": 400,
+      "DADOS2011": 459,
+      "VAR1101": "14.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paços de Brandão",
+      "Densidade": "Total",
+      "DADOS2001": 537,
+      "DADOS2011": 582,
+      "VAR1101": "8.29%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pigeiros",
+      "Densidade": "Total",
+      "DADOS2001": 97,
+      "DADOS2011": 99,
+      "VAR1101": "2.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Meão",
+      "Densidade": "Total",
+      "DADOS2001": 274,
+      "DADOS2011": 312,
+      "VAR1101": "13.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Romariz",
+      "Densidade": "Total",
+      "DADOS2001": 125,
+      "DADOS2011": 127,
+      "VAR1101": "1.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanfins",
+      "Densidade": "Total",
+      "DADOS2001": 181,
+      "DADOS2011": 216,
+      "VAR1101": "19.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanguedo",
+      "Densidade": "Total",
+      "DADOS2001": 274,
+      "DADOS2011": 315,
+      "VAR1101": "15.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Maria de Lamas",
+      "Densidade": "Total",
+      "DADOS2001": 498,
+      "DADOS2011": 549,
+      "VAR1101": "10.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João de Ver",
+      "Densidade": "Total",
+      "DADOS2001": 225,
+      "DADOS2011": 300,
+      "VAR1101": "33.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Paio de Oleiros",
+      "Densidade": "Total",
+      "DADOS2001": 392,
+      "DADOS2011": 421,
+      "VAR1101": "7.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Souto",
+      "Densidade": "Total",
+      "DADOS2001": 172,
+      "DADOS2011": 189,
+      "VAR1101": "9.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Travanca",
+      "Densidade": "Total",
+      "DADOS2001": 168,
+      "DADOS2011": 199,
+      "VAR1101": "17.96%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vale",
+      "Densidade": "Total",
+      "DADOS2001": 91,
+      "DADOS2011": 110,
+      "VAR1101": "21.8%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Maior",
+      "Densidade": "Total",
+      "DADOS2001": 115,
+      "DADOS2011": 136,
+      "VAR1101": "18.97%"
+    },
+    {
+      "Concelho": "Santo Tirso",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 194,
+      "DADOS2011": 218,
+      "VAR1101": "12.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Agrela",
+      "Densidade": "Total",
+      "DADOS2001": 74,
+      "DADOS2011": 88,
+      "VAR1101": "18.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Água Longa",
+      "Densidade": "Total",
+      "DADOS2001": 52,
+      "DADOS2011": 71,
+      "VAR1101": "36.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Areias",
+      "Densidade": "Total",
+      "DADOS2001": 353,
+      "DADOS2011": 387,
+      "VAR1101": "9.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aves",
+      "Densidade": "Total",
+      "DADOS2001": 538,
+      "DADOS2011": 605,
+      "VAR1101": "12.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Burgães",
+      "Densidade": "Total",
+      "DADOS2001": 122,
+      "DADOS2011": 127,
+      "VAR1101": "4.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campo (São Martinho)",
+      "Densidade": "Total",
+      "DADOS2001": 406,
+      "DADOS2011": 452,
+      "VAR1101": "11.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carreira",
+      "Densidade": "Total",
+      "DADOS2001": 107,
+      "DADOS2011": 146,
+      "VAR1101": "36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Couto (Santa Cristina)",
+      "Densidade": "Total",
+      "DADOS2001": 188,
+      "DADOS2011": 215,
+      "VAR1101": "14.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Couto (São Miguel)",
+      "Densidade": "Total",
+      "DADOS2001": 253,
+      "DADOS2011": 269,
+      "VAR1101": "6.69%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guimarei",
+      "Densidade": "Total",
+      "DADOS2001": 34,
+      "DADOS2011": 40,
+      "VAR1101": "16.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lama",
+      "Densidade": "Total",
+      "DADOS2001": 260,
+      "DADOS2011": 275,
+      "VAR1101": "5.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lamelas",
+      "Densidade": "Total",
+      "DADOS2001": 78,
+      "DADOS2011": 88,
+      "VAR1101": "11.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Monte Córdova",
+      "Densidade": "Total",
+      "DADOS2001": 79,
+      "DADOS2011": 100,
+      "VAR1101": "26.21%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Mamede)",
+      "Densidade": "Total",
+      "DADOS2001": 131,
+      "DADOS2011": 142,
+      "VAR1101": "8.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Tomé)",
+      "Densidade": "Total",
+      "DADOS2001": 269,
+      "DADOS2011": 286,
+      "VAR1101": "6.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Palmeira",
+      "Densidade": "Total",
+      "DADOS2001": 124,
+      "DADOS2011": 168,
+      "VAR1101": "35.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordões",
+      "Densidade": "Total",
+      "DADOS2001": 321,
+      "DADOS2011": 336,
+      "VAR1101": "4.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Refojos de Riba de Ave",
+      "Densidade": "Total",
+      "DADOS2001": 69,
+      "DADOS2011": 61,
+      "VAR1101": "-11.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Reguenga",
+      "Densidade": "Total",
+      "DADOS2001": 134,
+      "DADOS2011": 129,
+      "VAR1101": "-3.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roriz",
+      "Densidade": "Total",
+      "DADOS2001": 204,
+      "DADOS2011": 221,
+      "VAR1101": "8.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santo Tirso",
+      "Densidade": "Total",
+      "DADOS2001": 625,
+      "DADOS2011": 705,
+      "VAR1101": "12.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Salvador do Campo",
+      "Densidade": "Total",
+      "DADOS2001": 376,
+      "DADOS2011": 465,
+      "VAR1101": "23.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sequeiró",
+      "Densidade": "Total",
+      "DADOS2001": 274,
+      "DADOS2011": 278,
+      "VAR1101": "1.32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilarinho",
+      "Densidade": "Total",
+      "DADOS2001": 234,
+      "DADOS2011": 261,
+      "VAR1101": "11.44%"
+    },
+    {
+      "Concelho": "São João da Madeira",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 1172,
+      "DADOS2011": 1320,
+      "VAR1101": "12.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João da Madeira",
+      "Densidade": "Total",
+      "DADOS2001": 1172,
+      "DADOS2011": 1320,
+      "VAR1101": "12.55%"
+    },
+    {
+      "Concelho": "Trofa",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 187,
+      "DADOS2011": 217,
+      "VAR1101": "16.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarelhos",
+      "Densidade": "Total",
+      "DADOS2001": 136,
+      "DADOS2011": 155,
+      "VAR1101": "13.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (Santiago)",
+      "Densidade": "Total",
+      "DADOS2001": 157,
+      "DADOS2011": 167,
+      "VAR1101": "6.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (São Martinho)",
+      "Densidade": "Total",
+      "DADOS2001": 368,
+      "DADOS2011": 447,
+      "VAR1101": "21.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Mamede)",
+      "Densidade": "Total",
+      "DADOS2001": 181,
+      "DADOS2011": 213,
+      "VAR1101": "17.73%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Romão)",
+      "Densidade": "Total",
+      "DADOS2001": 355,
+      "DADOS2011": 580,
+      "VAR1101": "63.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelas",
+      "Densidade": "Total",
+      "DADOS2001": 38,
+      "DADOS2011": 38,
+      "VAR1101": "-0.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guidões",
+      "Densidade": "Total",
+      "DADOS2001": 126,
+      "DADOS2011": 131,
+      "VAR1101": "3.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Muro",
+      "Densidade": "Total",
+      "DADOS2001": 140,
+      "DADOS2011": 152,
+      "VAR1101": "9%"
+    },
+    {
+      "Concelho": "Vale de Cambra",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 69,
+      "DADOS2011": 80,
+      "VAR1101": "15.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arões",
+      "Densidade": "Total",
+      "DADOS2001": 17,
+      "DADOS2011": 19,
+      "VAR1101": "13.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cepelos",
+      "Densidade": "Total",
+      "DADOS2001": 39,
+      "DADOS2011": 42,
+      "VAR1101": "8.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Codal",
+      "Densidade": "Total",
+      "DADOS2001": 127,
+      "DADOS2011": 144,
+      "VAR1101": "13.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "Densidade": "Total",
+      "DADOS2001": 26,
+      "DADOS2011": 31,
+      "VAR1101": "21.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Cambra",
+      "Densidade": "Total",
+      "DADOS2001": 114,
+      "DADOS2011": 138,
+      "VAR1101": "20.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roge",
+      "Densidade": "Total",
+      "DADOS2001": 42,
+      "DADOS2011": 50,
+      "VAR1101": "18.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro de Castelões",
+      "Densidade": "Total",
+      "DADOS2001": 146,
+      "DADOS2011": 169,
+      "VAR1101": "16.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "Densidade": "Total",
+      "DADOS2001": 336,
+      "DADOS2011": 371,
+      "VAR1101": "10.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Cova de Perrinho",
+      "Densidade": "Total",
+      "DADOS2001": 40,
+      "DADOS2011": 51,
+      "VAR1101": "27.26%"
+    },
+    {
+      "Concelho": "Valongo",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 441,
+      "DADOS2011": 538,
+      "VAR1101": "21.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alfena",
+      "Densidade": "Total",
+      "DADOS2001": 472,
+      "DADOS2011": 561,
+      "VAR1101": "18.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campo",
+      "Densidade": "Total",
+      "DADOS2001": 221,
+      "DADOS2011": 322,
+      "VAR1101": "45.49%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ermesinde",
+      "Densidade": "Total",
+      "DADOS2001": 2017,
+      "DADOS2011": 2275,
+      "VAR1101": "12.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrado",
+      "Densidade": "Total",
+      "DADOS2001": 99,
+      "DADOS2011": 116,
+      "VAR1101": "18.08%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valongo",
+      "Densidade": "Total",
+      "DADOS2001": 357,
+      "DADOS2011": 448,
+      "VAR1101": "25.32%"
+    },
+    {
+      "Concelho": "Vila do Conde",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 209,
+      "DADOS2011": 253,
+      "VAR1101": "21.32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcos",
+      "Densidade": "Total",
+      "DADOS2001": 47,
+      "DADOS2011": 54,
+      "VAR1101": "13.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Árvore",
+      "Densidade": "Total",
+      "DADOS2001": 337,
+      "DADOS2011": 415,
+      "VAR1101": "23.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aveleda",
+      "Densidade": "Total",
+      "DADOS2001": 128,
+      "DADOS2011": 136,
+      "VAR1101": "5.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Azurara",
+      "Densidade": "Total",
+      "DADOS2001": 456,
+      "DADOS2011": 587,
+      "VAR1101": "28.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bagunte",
+      "Densidade": "Total",
+      "DADOS2001": 55,
+      "DADOS2011": 54,
+      "VAR1101": "-2.29%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "Densidade": "Total",
+      "DADOS2001": 87,
+      "DADOS2011": 99,
+      "VAR1101": "13.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajozes",
+      "Densidade": "Total",
+      "DADOS2001": 82,
+      "DADOS2011": 95,
+      "VAR1101": "15.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ferreiró",
+      "Densidade": "Total",
+      "DADOS2001": 43,
+      "DADOS2011": 50,
+      "VAR1101": "16.15%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornelo",
+      "Densidade": "Total",
+      "DADOS2001": 89,
+      "DADOS2011": 96,
+      "VAR1101": "7.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "Densidade": "Total",
+      "DADOS2001": 86,
+      "DADOS2011": 119,
+      "VAR1101": "38.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guilhabreu",
+      "Densidade": "Total",
+      "DADOS2001": 125,
+      "DADOS2011": 130,
+      "VAR1101": "4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "Densidade": "Total",
+      "DADOS2001": 108,
+      "DADOS2011": 114,
+      "VAR1101": "6.21%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Labruge",
+      "Densidade": "Total",
+      "DADOS2001": 237,
+      "DADOS2011": 297,
+      "VAR1101": "25.23%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira da Maia",
+      "Densidade": "Total",
+      "DADOS2001": 108,
+      "DADOS2011": 161,
+      "VAR1101": "48.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Malta",
+      "Densidade": "Total",
+      "DADOS2001": 182,
+      "DADOS2011": 238,
+      "VAR1101": "30.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mindelo",
+      "Densidade": "Total",
+      "DADOS2001": 402,
+      "DADOS2011": 432,
+      "VAR1101": "7.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Modivas",
+      "Densidade": "Total",
+      "DADOS2001": 147,
+      "DADOS2011": 175,
+      "VAR1101": "19.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mosteiró",
+      "Densidade": "Total",
+      "DADOS2001": 110,
+      "DADOS2011": 134,
+      "VAR1101": "22.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Outeiro Maior",
+      "Densidade": "Total",
+      "DADOS2001": 23,
+      "DADOS2011": 28,
+      "VAR1101": "21.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada",
+      "Densidade": "Total",
+      "DADOS2001": 38,
+      "DADOS2011": 40,
+      "VAR1101": "5.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Retorta",
+      "Densidade": "Total",
+      "DADOS2001": 113,
+      "DADOS2011": 150,
+      "VAR1101": "32.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Mau",
+      "Densidade": "Total",
+      "DADOS2001": 56,
+      "DADOS2011": 74,
+      "VAR1101": "33.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tougues",
+      "Densidade": "Total",
+      "DADOS2001": 84,
+      "DADOS2011": 102,
+      "VAR1101": "21.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Touguinha",
+      "Densidade": "Total",
+      "DADOS2001": 140,
+      "DADOS2011": 232,
+      "VAR1101": "64.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Touguinhó",
+      "Densidade": "Total",
+      "DADOS2001": 107,
+      "DADOS2011": 127,
+      "VAR1101": "18.94%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vairão",
+      "Densidade": "Total",
+      "DADOS2001": 88,
+      "DADOS2011": 107,
+      "VAR1101": "21.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "Densidade": "Total",
+      "DADOS2001": 308,
+      "DADOS2011": 348,
+      "VAR1101": "12.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila do Conde",
+      "Densidade": "Total",
+      "DADOS2001": 1761,
+      "DADOS2011": 2191,
+      "VAR1101": "24.4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar",
+      "Densidade": "Total",
+      "DADOS2001": 136,
+      "DADOS2011": 148,
+      "VAR1101": "8.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Pinheiro",
+      "Densidade": "Total",
+      "DADOS2001": 253,
+      "DADOS2011": 286,
+      "VAR1101": "13.09%"
+    },
+    {
+      "Concelho": "Vila Nova de Gaia",
+      "Freguesia": "Concelho",
+      "Densidade": "Total",
+      "DADOS2001": 733,
+      "DADOS2011": 845,
+      "VAR1101": "15.29%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcozelo",
+      "Densidade": "Total",
+      "DADOS2001": 677,
+      "DADOS2011": 821,
+      "VAR1101": "21.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avintes",
+      "Densidade": "Total",
+      "DADOS2001": 512,
+      "DADOS2011": 564,
+      "VAR1101": "10.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas",
+      "Densidade": "Total",
+      "DADOS2001": 713,
+      "DADOS2011": 846,
+      "VAR1101": "18.69%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "Densidade": "Total",
+      "DADOS2001": 1210,
+      "DADOS2011": 1489,
+      "VAR1101": "23.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Crestuma",
+      "Densidade": "Total",
+      "DADOS2001": 215,
+      "DADOS2011": 218,
+      "VAR1101": "1.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Grijó",
+      "Densidade": "Total",
+      "DADOS2001": 337,
+      "DADOS2011": 399,
+      "VAR1101": "18.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gulpilhares",
+      "Densidade": "Total",
+      "DADOS2001": 869,
+      "DADOS2011": 1024,
+      "VAR1101": "17.84%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lever",
+      "Densidade": "Total",
+      "DADOS2001": 128,
+      "DADOS2011": 146,
+      "VAR1101": "13.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "Densidade": "Total",
+      "DADOS2001": 887,
+      "DADOS2011": 1042,
+      "VAR1101": "17.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mafamude",
+      "Densidade": "Total",
+      "DADOS2001": 3424,
+      "DADOS2011": 3737,
+      "VAR1101": "9.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Olival",
+      "Densidade": "Total",
+      "DADOS2001": 247,
+      "DADOS2011": 270,
+      "VAR1101": "9.38%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira do Douro",
+      "Densidade": "Total",
+      "DADOS2001": 1273,
+      "DADOS2011": 1405,
+      "VAR1101": "10.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedroso",
+      "Densidade": "Total",
+      "DADOS2001": 371,
+      "DADOS2011": 415,
+      "VAR1101": "11.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Perozinho",
+      "Densidade": "Total",
+      "DADOS2001": 429,
+      "DADOS2011": 495,
+      "VAR1101": "15.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sandim",
+      "Densidade": "Total",
+      "DADOS2001": 160,
+      "DADOS2011": 168,
+      "VAR1101": "4.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Félix da Marinha",
+      "Densidade": "Total",
+      "DADOS2001": 639,
+      "DADOS2011": 811,
+      "VAR1101": "26.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro da Afurada",
+      "Densidade": "Total",
+      "DADOS2001": 1646,
+      "DADOS2011": 2149,
+      "VAR1101": "30.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Seixezelo",
+      "Densidade": "Total",
+      "DADOS2001": 474,
+      "DADOS2011": 524,
+      "VAR1101": "10.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sermonde",
+      "Densidade": "Total",
+      "DADOS2001": 284,
+      "DADOS2011": 331,
+      "VAR1101": "16.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Serzedo",
+      "Densidade": "Total",
+      "DADOS2001": 437,
+      "DADOS2011": 493,
+      "VAR1101": "12.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valadares",
+      "Densidade": "Total",
+      "DADOS2001": 822,
+      "DADOS2011": 942,
+      "VAR1101": "14.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova de Gaia (Santa Marinha)",
+      "Densidade": "Total",
+      "DADOS2001": 2394,
+      "DADOS2011": 2764,
+      "VAR1101": "15.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Andorinho",
+      "Densidade": "Total",
+      "DADOS2001": 952,
+      "DADOS2011": 1116,
+      "VAR1101": "17.28%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar do Paraíso",
+      "Densidade": "Total",
+      "DADOS2001": 1069,
+      "DADOS2011": 1206,
+      "VAR1101": "12.91%"
+    }
+  ]
