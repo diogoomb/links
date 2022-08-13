@@ -1,0 +1,2922 @@
+ [
+    {
+      "Concelho": "Área Metropolitana do Porto",
+      "Freguesia": "Área Metropolitana do Porto",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.14%",
+      "DADOS2001": "20.73%",
+      "DADOS2011": "12.76%",
+      "VAR0191": "-35.5%",
+      "VAR1101": "-38.45%"
+    },
+    {
+      "Concelho": "Arouca",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.78%",
+      "DADOS2001": "21.53%",
+      "DADOS2011": "12.25%",
+      "VAR0191": "-27.7%",
+      "VAR1101": "-43.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Albergaria da Serra",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "48.89%",
+      "DADOS2001": "28.89%",
+      "DADOS2011": "14.29%",
+      "VAR0191": "-40.91%",
+      "VAR1101": "-50.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarenga",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.47%",
+      "DADOS2001": "16.99%",
+      "DADOS2011": "14.07%",
+      "VAR0191": "-12.74%",
+      "VAR1101": "-17.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arouca",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.04%",
+      "DADOS2001": "16.28%",
+      "DADOS2011": "10.24%",
+      "VAR0191": "-37.48%",
+      "VAR1101": "-37.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Burgo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.29%",
+      "DADOS2001": "18.24%",
+      "DADOS2011": "12.4%",
+      "VAR0191": "-35.52%",
+      "VAR1101": "-32.02%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cabreiros",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.71%",
+      "DADOS2001": "19.72%",
+      "DADOS2011": "14.81%",
+      "VAR0191": "-20.19%",
+      "VAR1101": "-24.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas ",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.48%",
+      "DADOS2001": "24.58%",
+      "DADOS2011": "14.92%",
+      "VAR0191": "-28.71%",
+      "VAR1101": "-39.3%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Chave",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "20.92%",
+      "DADOS2001": "18.27%",
+      "DADOS2011": "10.9%",
+      "VAR0191": "-12.67%",
+      "VAR1101": "-40.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelo de Paivó",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.25%",
+      "DADOS2001": "27.66%",
+      "DADOS2011": "11.9%",
+      "VAR0191": "-25.74%",
+      "VAR1101": "-56.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escariz",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.59%",
+      "DADOS2001": "23.74%",
+      "DADOS2011": "13.26%",
+      "VAR0191": "-40.04%",
+      "VAR1101": "-44.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espiunca",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.27%",
+      "DADOS2001": "26.85%",
+      "DADOS2011": "16.28%",
+      "VAR0191": "-27.96%",
+      "VAR1101": "-39.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fermedo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "38.95%",
+      "DADOS2001": "26.4%",
+      "DADOS2011": "15.13%",
+      "VAR0191": "-32.22%",
+      "VAR1101": "-42.69%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Janarde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "47.76%",
+      "DADOS2001": "35.56%",
+      "DADOS2011": "32.5%",
+      "VAR0191": "-25.54%",
+      "VAR1101": "-8.61%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mansores",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.55%",
+      "DADOS2001": "20.38%",
+      "DADOS2011": "10.29%",
+      "VAR0191": "-20.23%",
+      "VAR1101": "-49.51%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moldes",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "41.25%",
+      "DADOS2001": "31.51%",
+      "DADOS2011": "14.14%",
+      "VAR0191": "-23.61%",
+      "VAR1101": "-55.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rossas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.01%",
+      "DADOS2001": "20.49%",
+      "DADOS2011": "10.5%",
+      "VAR0191": "-2.48%",
+      "VAR1101": "-48.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Eulália",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.16%",
+      "DADOS2001": "19.94%",
+      "DADOS2011": "11.26%",
+      "VAR0191": "-31.62%",
+      "VAR1101": "-43.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Miguel do Mato",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.8%",
+      "DADOS2001": "30.64%",
+      "DADOS2011": "15.2%",
+      "VAR0191": "-9.35%",
+      "VAR1101": "-50.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tropeço",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.82%",
+      "DADOS2001": "23.97%",
+      "DADOS2011": "10.7%",
+      "VAR0191": "-16.83%",
+      "VAR1101": "-55.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Urrô",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.28%",
+      "DADOS2001": "16.99%",
+      "DADOS2011": "11.3%",
+      "VAR0191": "-30.02%",
+      "VAR1101": "-33.49%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Várzea",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "41.41%",
+      "DADOS2001": "24.84%",
+      "DADOS2011": "9.29%",
+      "VAR0191": "-40.01%",
+      "VAR1101": "-62.6%"
+    },
+    {
+      "Concelho": "Espinho",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.91%",
+      "DADOS2001": "17.85%",
+      "DADOS2011": "12.12%",
+      "VAR0191": "-31.11%",
+      "VAR1101": "-32.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Anta",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.91%",
+      "DADOS2001": "18.97%",
+      "DADOS2011": "12.57%",
+      "VAR0191": "-23.85%",
+      "VAR1101": "-33.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espinho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "18.2%",
+      "DADOS2001": "13.09%",
+      "DADOS2011": "7.94%",
+      "VAR0191": "-28.08%",
+      "VAR1101": "-39.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guetim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.72%",
+      "DADOS2001": "21%",
+      "DADOS2011": "16.98%",
+      "VAR0191": "-31.64%",
+      "VAR1101": "-19.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paramos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.91%",
+      "DADOS2001": "20.83%",
+      "DADOS2011": "15.16%",
+      "VAR0191": "-34.72%",
+      "VAR1101": "-27.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silvalde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.03%",
+      "DADOS2001": "21.78%",
+      "DADOS2011": "16.25%",
+      "VAR0191": "-41.18%",
+      "VAR1101": "-25.39%"
+    },
+    {
+      "Concelho": "Gondomar",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.82%",
+      "DADOS2001": "20.75%",
+      "DADOS2011": "14.23%",
+      "VAR0191": "-40.41%",
+      "VAR1101": "-31.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baguim do Monte (Rio Tinto)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.56%",
+      "DADOS2001": "18.09%",
+      "DADOS2011": "13.11%",
+      "VAR0191": "-50.52%",
+      "VAR1101": "-27.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.63%",
+      "DADOS2001": "24.32%",
+      "DADOS2011": "14.47%",
+      "VAR0191": "-31.74%",
+      "VAR1101": "-40.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fânzeres",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.36%",
+      "DADOS2001": "19.27%",
+      "DADOS2011": "15.96%",
+      "VAR0191": "-45.5%",
+      "VAR1101": "-17.18%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Foz do Sousa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "43.46%",
+      "DADOS2001": "30.99%",
+      "DADOS2011": "13.15%",
+      "VAR0191": "-28.69%",
+      "VAR1101": "-57.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondomar (São Cosme)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.08%",
+      "DADOS2001": "17.94%",
+      "DADOS2011": "12.36%",
+      "VAR0191": "-42.28%",
+      "VAR1101": "-31.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Jovim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "45.01%",
+      "DADOS2001": "28.51%",
+      "DADOS2011": "15.51%",
+      "VAR0191": "-36.66%",
+      "VAR1101": "-45.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lomba",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.11%",
+      "DADOS2001": "21.99%",
+      "DADOS2011": "12.12%",
+      "VAR0191": "-37.37%",
+      "VAR1101": "-44.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Medas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.05%",
+      "DADOS2001": "22.47%",
+      "DADOS2011": "11.72%",
+      "VAR0191": "-35.89%",
+      "VAR1101": "-47.84%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Melres",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.35%",
+      "DADOS2001": "28.08%",
+      "DADOS2011": "15.93%",
+      "VAR0191": "-22.75%",
+      "VAR1101": "-43.27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Tinto",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.99%",
+      "DADOS2001": "17.13%",
+      "DADOS2011": "13.3%",
+      "VAR0191": "-38.8%",
+      "VAR1101": "-22.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro da Cova",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "47.47%",
+      "DADOS2001": "31.99%",
+      "DADOS2011": "19.46%",
+      "VAR0191": "-32.61%",
+      "VAR1101": "-39.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valbom",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.09%",
+      "DADOS2001": "20.91%",
+      "DADOS2011": "13.86%",
+      "VAR0191": "-42.06%",
+      "VAR1101": "-33.72%"
+    },
+    {
+      "Concelho": "Maia",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.83%",
+      "DADOS2001": "17.59%",
+      "DADOS2011": "11.72%",
+      "VAR0191": "-41.03%",
+      "VAR1101": "-33.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Águas Santas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.8%",
+      "DADOS2001": "18.15%",
+      "DADOS2011": "13.48%",
+      "VAR0191": "-46.3%",
+      "VAR1101": "-25.73%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avioso (Santa Maria)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.99%",
+      "DADOS2001": "16.13%",
+      "DADOS2011": "10.93%",
+      "VAR0191": "-37.94%",
+      "VAR1101": "-32.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avioso (São Pedro)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.15%",
+      "DADOS2001": "18.85%",
+      "DADOS2011": "12.08%",
+      "VAR0191": "-27.92%",
+      "VAR1101": "-35.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Barca",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "40.99%",
+      "DADOS2001": "24.8%",
+      "DADOS2011": "12.94%",
+      "VAR0191": "-39.5%",
+      "VAR1101": "-47.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Folgosa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.2%",
+      "DADOS2001": "19.16%",
+      "DADOS2011": "10.86%",
+      "VAR0191": "-43.98%",
+      "VAR1101": "-43.32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gemunde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.19%",
+      "DADOS2001": "24.05%",
+      "DADOS2011": "14.11%",
+      "VAR0191": "-38.63%",
+      "VAR1101": "-41.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "43.95%",
+      "DADOS2001": "22.26%",
+      "DADOS2011": "13.39%",
+      "VAR0191": "-49.35%",
+      "VAR1101": "-39.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gueifães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.9%",
+      "DADOS2001": "14.85%",
+      "DADOS2011": "10.84%",
+      "VAR0191": "-35.15%",
+      "VAR1101": "-27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Maia",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.03%",
+      "DADOS2001": "12.94%",
+      "DADOS2011": "9.98%",
+      "VAR0191": "-38.47%",
+      "VAR1101": "-22.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.21%",
+      "DADOS2001": "19.31%",
+      "DADOS2011": "10.43%",
+      "VAR0191": "-50.75%",
+      "VAR1101": "-45.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moreira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.14%",
+      "DADOS2001": "16.7%",
+      "DADOS2011": "11.03%",
+      "VAR0191": "-42.69%",
+      "VAR1101": "-33.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.81%",
+      "DADOS2001": "19.09%",
+      "DADOS2011": "12.92%",
+      "VAR0191": "-38.04%",
+      "VAR1101": "-32.32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedrouços",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.74%",
+      "DADOS2001": "21.17%",
+      "DADOS2011": "12.91%",
+      "VAR0191": "-35.34%",
+      "VAR1101": "-39.02%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro Fins",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.66%",
+      "DADOS2001": "19.93%",
+      "DADOS2011": "11.76%",
+      "VAR0191": "-40.79%",
+      "VAR1101": "-40.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silva Escura",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.39%",
+      "DADOS2001": "19.76%",
+      "DADOS2011": "12.9%",
+      "VAR0191": "-38.99%",
+      "VAR1101": "-34.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vermoim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.88%",
+      "DADOS2001": "15.16%",
+      "DADOS2011": "10.45%",
+      "VAR0191": "-33.74%",
+      "VAR1101": "-31.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova da Telha",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.44%",
+      "DADOS2001": "13.98%",
+      "DADOS2011": "8.44%",
+      "VAR0191": "-28.09%",
+      "VAR1101": "-39.63%"
+    },
+    {
+      "Concelho": "Matosinhos",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.41%",
+      "DADOS2001": "19.17%",
+      "DADOS2011": "12.87%",
+      "VAR0191": "-32.52%",
+      "VAR1101": "-32.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Custóias",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.83%",
+      "DADOS2001": "19.25%",
+      "DADOS2011": "13.13%",
+      "VAR0191": "-37.56%",
+      "VAR1101": "-31.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guifões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.18%",
+      "DADOS2001": "24.95%",
+      "DADOS2011": "15.24%",
+      "VAR0191": "-32.89%",
+      "VAR1101": "-38.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lavra",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.28%",
+      "DADOS2001": "19.24%",
+      "DADOS2011": "12.55%",
+      "VAR0191": "-40.4%",
+      "VAR1101": "-34.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Leça da Palmeira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.6%",
+      "DADOS2001": "17.21%",
+      "DADOS2011": "11.44%",
+      "VAR0191": "-35.3%",
+      "VAR1101": "-33.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Leça do Balio",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.81%",
+      "DADOS2001": "18.97%",
+      "DADOS2011": "11.65%",
+      "VAR0191": "-34.15%",
+      "VAR1101": "-38.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Matosinhos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.71%",
+      "DADOS2001": "20.43%",
+      "DADOS2011": "13.4%",
+      "VAR0191": "-31.24%",
+      "VAR1101": "-34.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Perafita",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.91%",
+      "DADOS2001": "23.02%",
+      "DADOS2011": "13.29%",
+      "VAR0191": "-30.05%",
+      "VAR1101": "-42.27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Cruz do Bispo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.86%",
+      "DADOS2001": "24.07%",
+      "DADOS2011": "14.3%",
+      "VAR0191": "-32.88%",
+      "VAR1101": "-40.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Mamede de Infesta",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.33%",
+      "DADOS2001": "18.91%",
+      "DADOS2011": "13.43%",
+      "VAR0191": "-28.18%",
+      "VAR1101": "-28.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Senhora da Hora",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "18.16%",
+      "DADOS2001": "14.7%",
+      "DADOS2011": "12.21%",
+      "VAR0191": "-19.05%",
+      "VAR1101": "-16.94%"
+    },
+    {
+      "Concelho": "Oliveira de Azeméis",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.91%",
+      "DADOS2001": "14.84%",
+      "DADOS2011": "9.41%",
+      "VAR0191": "-40.43%",
+      "VAR1101": "-36.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carregosa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.33%",
+      "DADOS2001": "14.8%",
+      "DADOS2011": "10.13%",
+      "VAR0191": "-36.56%",
+      "VAR1101": "-31.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cesar",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.94%",
+      "DADOS2001": "12.41%",
+      "DADOS2011": "8.9%",
+      "VAR0191": "-43.44%",
+      "VAR1101": "-28.28%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.41%",
+      "DADOS2001": "18.69%",
+      "DADOS2011": "11.44%",
+      "VAR0191": "-40.5%",
+      "VAR1101": "-38.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Loureiro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.29%",
+      "DADOS2001": "15.95%",
+      "DADOS2011": "9.08%",
+      "VAR0191": "-17.31%",
+      "VAR1101": "-43.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Sarnes",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.95%",
+      "DADOS2001": "17.5%",
+      "DADOS2011": "9.12%",
+      "VAR0191": "-48.45%",
+      "VAR1101": "-47.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macinhata da Seixa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.58%",
+      "DADOS2001": "15.98%",
+      "DADOS2011": "11.79%",
+      "VAR0191": "-39.88%",
+      "VAR1101": "-26.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madail",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.14%",
+      "DADOS2001": "11.68%",
+      "DADOS2011": "9.16%",
+      "VAR0191": "-38.98%",
+      "VAR1101": "-21.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira do Cravo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.26%",
+      "DADOS2001": "15.58%",
+      "DADOS2011": "8.91%",
+      "VAR0191": "-40.67%",
+      "VAR1101": "-42.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira de Azeméis",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "17.65%",
+      "DADOS2001": "10.6%",
+      "DADOS2011": "8.67%",
+      "VAR0191": "-39.94%",
+      "VAR1101": "-18.21%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ossela",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.4%",
+      "DADOS2001": "18.91%",
+      "DADOS2011": "11.14%",
+      "VAR0191": "-30.99%",
+      "VAR1101": "-41.09%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Palmaz",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.23%",
+      "DADOS2001": "15.97%",
+      "DADOS2011": "9.03%",
+      "VAR0191": "-45.36%",
+      "VAR1101": "-43.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pindelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.83%",
+      "DADOS2001": "15.67%",
+      "DADOS2011": "8.75%",
+      "VAR0191": "-41.6%",
+      "VAR1101": "-44.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pinheiro da Bemposta",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.5%",
+      "DADOS2001": "16.76%",
+      "DADOS2011": "9.66%",
+      "VAR0191": "-31.59%",
+      "VAR1101": "-42.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santiago de Riba-Ul",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.41%",
+      "DADOS2001": "13.47%",
+      "DADOS2011": "9.29%",
+      "VAR0191": "-30.6%",
+      "VAR1101": "-31.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Martinho da Gândara",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.49%",
+      "DADOS2001": "14.8%",
+      "DADOS2011": "8.32%",
+      "VAR0191": "-39.57%",
+      "VAR1101": "-43.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Roque",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.25%",
+      "DADOS2001": "13.22%",
+      "DADOS2011": "9.24%",
+      "VAR0191": "-31.32%",
+      "VAR1101": "-30.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Travanca",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.63%",
+      "DADOS2001": "17.92%",
+      "DADOS2011": "9.75%",
+      "VAR0191": "-37.41%",
+      "VAR1101": "-45.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ul",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.75%",
+      "DADOS2001": "16.61%",
+      "DADOS2011": "8.39%",
+      "VAR0191": "-32.89%",
+      "VAR1101": "-49.49%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila de Cucujães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.69%",
+      "DADOS2001": "16.45%",
+      "DADOS2011": "9.92%",
+      "VAR0191": "-51.17%",
+      "VAR1101": "-39.7%"
+    },
+    {
+      "Concelho": "Paredes",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "41.42%",
+      "DADOS2001": "27.72%",
+      "DADOS2011": "17.07%",
+      "VAR0191": "-33.08%",
+      "VAR1101": "-38.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguiar de Sousa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "42.99%",
+      "DADOS2001": "27.13%",
+      "DADOS2011": "14.48%",
+      "VAR0191": "-36.89%",
+      "VAR1101": "-46.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Astromil",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.17%",
+      "DADOS2001": "22.76%",
+      "DADOS2011": "13.91%",
+      "VAR0191": "-31.38%",
+      "VAR1101": "-38.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baltar",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.44%",
+      "DADOS2001": "22.26%",
+      "DADOS2011": "16.18%",
+      "VAR0191": "-31.38%",
+      "VAR1101": "-27.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beire",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "40.24%",
+      "DADOS2001": "28.91%",
+      "DADOS2011": "13.58%",
+      "VAR0191": "-28.16%",
+      "VAR1101": "-53.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Besteiros",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.61%",
+      "DADOS2001": "29.78%",
+      "DADOS2011": "15.78%",
+      "VAR0191": "-24.82%",
+      "VAR1101": "-47.01%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bitarães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.84%",
+      "DADOS2001": "21.08%",
+      "DADOS2011": "13.74%",
+      "VAR0191": "-41.18%",
+      "VAR1101": "-34.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Castelões de Cepeda",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.16%",
+      "DADOS2001": "15.38%",
+      "DADOS2011": "12.51%",
+      "VAR0191": "-33.59%",
+      "VAR1101": "-18.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cete",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.06%",
+      "DADOS2001": "20.6%",
+      "DADOS2011": "13.42%",
+      "VAR0191": "-41.24%",
+      "VAR1101": "-34.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cristelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "38.51%",
+      "DADOS2001": "24.37%",
+      "DADOS2011": "18.98%",
+      "VAR0191": "-36.72%",
+      "VAR1101": "-22.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Duas Igrejas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "57.87%",
+      "DADOS2001": "41.07%",
+      "DADOS2011": "25.02%",
+      "VAR0191": "-29.03%",
+      "VAR1101": "-39.08%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gandra",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "47.61%",
+      "DADOS2001": "30.7%",
+      "DADOS2011": "15.55%",
+      "VAR0191": "-35.52%",
+      "VAR1101": "-49.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondalães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "42.66%",
+      "DADOS2001": "27.91%",
+      "DADOS2011": "16.54%",
+      "VAR0191": "-34.58%",
+      "VAR1101": "-40.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "49.76%",
+      "DADOS2001": "34.44%",
+      "DADOS2011": "19.96%",
+      "VAR0191": "-30.79%",
+      "VAR1101": "-42.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.21%",
+      "DADOS2001": "22.39%",
+      "DADOS2011": "14.38%",
+      "VAR0191": "-38.17%",
+      "VAR1101": "-35.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.01%",
+      "DADOS2001": "21.5%",
+      "DADOS2011": "14.94%",
+      "VAR0191": "-40.29%",
+      "VAR1101": "-30.51%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mouriz",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "42.86%",
+      "DADOS2001": "25.74%",
+      "DADOS2011": "16.83%",
+      "VAR0191": "-39.94%",
+      "VAR1101": "-34.62%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada de Todeia",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "44.66%",
+      "DADOS2001": "27.54%",
+      "DADOS2011": "16.89%",
+      "VAR0191": "-38.33%",
+      "VAR1101": "-38.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordosa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "42.09%",
+      "DADOS2001": "25.93%",
+      "DADOS2011": "20.14%",
+      "VAR0191": "-38.39%",
+      "VAR1101": "-22.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Recarei",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "40.23%",
+      "DADOS2001": "29.02%",
+      "DADOS2011": "16.61%",
+      "VAR0191": "-27.86%",
+      "VAR1101": "-42.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobreira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.19%",
+      "DADOS2001": "25.67%",
+      "DADOS2011": "13.35%",
+      "VAR0191": "-30.98%",
+      "VAR1101": "-47.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrosa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.52%",
+      "DADOS2001": "31%",
+      "DADOS2011": "17.14%",
+      "VAR0191": "-15.12%",
+      "VAR1101": "-44.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vandoma",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "48.27%",
+      "DADOS2001": "34.55%",
+      "DADOS2011": "20.48%",
+      "VAR0191": "-28.42%",
+      "VAR1101": "-40.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Cova de Carros",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "48.67%",
+      "DADOS2001": "40.41%",
+      "DADOS2011": "17.56%",
+      "VAR0191": "-16.97%",
+      "VAR1101": "-56.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilela",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "46.14%",
+      "DADOS2001": "36.83%",
+      "DADOS2011": "22.58%",
+      "VAR0191": "-20.18%",
+      "VAR1101": "-38.69%"
+    },
+    {
+      "Concelho": "Porto",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.67%",
+      "DADOS2001": "19%",
+      "DADOS2011": "13.53%",
+      "VAR0191": "-31.33%",
+      "VAR1101": "-28.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aldoar",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.66%",
+      "DADOS2001": "14.69%",
+      "DADOS2011": "11.34%",
+      "VAR0191": "-35.17%",
+      "VAR1101": "-22.8%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bonfim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.05%",
+      "DADOS2001": "19.63%",
+      "DADOS2011": "14.69%",
+      "VAR0191": "-21.64%",
+      "VAR1101": "-25.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campanhã",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.97%",
+      "DADOS2001": "25.16%",
+      "DADOS2011": "18.53%",
+      "VAR0191": "-28.05%",
+      "VAR1101": "-26.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cedofeita",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.28%",
+      "DADOS2001": "17.34%",
+      "DADOS2011": "12.77%",
+      "VAR0191": "-28.58%",
+      "VAR1101": "-26.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Foz do Douro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22%",
+      "DADOS2001": "11.12%",
+      "DADOS2011": "7.19%",
+      "VAR0191": "-49.45%",
+      "VAR1101": "-35.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo do Ouro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.72%",
+      "DADOS2001": "16.27%",
+      "DADOS2011": "11.69%",
+      "VAR0191": "-31.41%",
+      "VAR1101": "-28.15%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Massarelos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.19%",
+      "DADOS2001": "18.12%",
+      "DADOS2011": "12.41%",
+      "VAR0191": "-35.72%",
+      "VAR1101": "-31.51%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Miragaia",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "48.82%",
+      "DADOS2001": "34.75%",
+      "DADOS2011": "23.63%",
+      "VAR0191": "-28.82%",
+      "VAR1101": "-32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nevogilde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "12.76%",
+      "DADOS2001": "6.55%",
+      "DADOS2011": "4.21%",
+      "VAR0191": "-48.67%",
+      "VAR1101": "-35.73%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paranhos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.14%",
+      "DADOS2001": "18.07%",
+      "DADOS2011": "12.86%",
+      "VAR0191": "-25.14%",
+      "VAR1101": "-28.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ramalde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "24.83%",
+      "DADOS2001": "14.88%",
+      "DADOS2011": "10.81%",
+      "VAR0191": "-40.07%",
+      "VAR1101": "-27.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santo Ildefonso",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.08%",
+      "DADOS2001": "20.78%",
+      "DADOS2011": "16.48%",
+      "VAR0191": "-30.92%",
+      "VAR1101": "-20.69%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Nicolau",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "47.27%",
+      "DADOS2001": "41.27%",
+      "DADOS2011": "25.45%",
+      "VAR0191": "-12.69%",
+      "VAR1101": "-38.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sé",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "48.69%",
+      "DADOS2001": "40.06%",
+      "DADOS2011": "27.11%",
+      "VAR0191": "-17.72%",
+      "VAR1101": "-32.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vitória",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "40.96%",
+      "DADOS2001": "33.3%",
+      "DADOS2011": "25.65%",
+      "VAR0191": "-18.7%",
+      "VAR1101": "-22.97%"
+    },
+    {
+      "Concelho": "Póvoa de Varzim",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.76%",
+      "DADOS2001": "19.77%",
+      "DADOS2011": "12.47%",
+      "VAR0191": "-28.78%",
+      "VAR1101": "-36.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "A Ver-o-Mar",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.2%",
+      "DADOS2001": "22.61%",
+      "DADOS2011": "12.58%",
+      "VAR0191": "-33.89%",
+      "VAR1101": "-44.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguçadoura",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "20.96%",
+      "DADOS2001": "18.72%",
+      "DADOS2011": "12.16%",
+      "VAR0191": "-10.69%",
+      "VAR1101": "-35.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Amorim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.62%",
+      "DADOS2001": "19.48%",
+      "DADOS2011": "10.47%",
+      "VAR0191": "-40.28%",
+      "VAR1101": "-46.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argivai",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.93%",
+      "DADOS2001": "18.13%",
+      "DADOS2011": "12.97%",
+      "VAR0191": "-46.57%",
+      "VAR1101": "-28.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Balazar",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.36%",
+      "DADOS2001": "19.94%",
+      "DADOS2011": "10.45%",
+      "VAR0191": "-24.36%",
+      "VAR1101": "-47.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beiriz",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.43%",
+      "DADOS2001": "15.67%",
+      "DADOS2011": "8.47%",
+      "VAR0191": "-38.38%",
+      "VAR1101": "-45.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Estela",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.88%",
+      "DADOS2001": "29.7%",
+      "DADOS2011": "9.37%",
+      "VAR0191": "-9.67%",
+      "VAR1101": "-68.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Laundos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.97%",
+      "DADOS2001": "22.88%",
+      "DADOS2011": "10.32%",
+      "VAR0191": "-32.65%",
+      "VAR1101": "-54.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Navais",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.1%",
+      "DADOS2001": "15.43%",
+      "DADOS2011": "9.79%",
+      "VAR0191": "-56.04%",
+      "VAR1101": "-36.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Póvoa de Varzim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.1%",
+      "DADOS2001": "18.46%",
+      "DADOS2011": "13.44%",
+      "VAR0191": "-29.27%",
+      "VAR1101": "-27.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rates",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.99%",
+      "DADOS2001": "23.52%",
+      "DADOS2011": "15.54%",
+      "VAR0191": "-26.48%",
+      "VAR1101": "-33.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Terroso",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.87%",
+      "DADOS2001": "22.19%",
+      "DADOS2011": "12.23%",
+      "VAR0191": "-2.97%",
+      "VAR1101": "-44.89%"
+    },
+    {
+      "Concelho": "Santa Maria da Feira",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.99%",
+      "DADOS2001": "17.91%",
+      "DADOS2011": "11.74%",
+      "VAR0191": "-44.01%",
+      "VAR1101": "-34.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argoncilhe",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "44.2%",
+      "DADOS2001": "22.43%",
+      "DADOS2011": "13.53%",
+      "VAR0191": "-49.25%",
+      "VAR1101": "-39.68%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arrifana",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.88%",
+      "DADOS2001": "14.72%",
+      "DADOS2011": "9.78%",
+      "VAR0191": "-45.24%",
+      "VAR1101": "-33.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Caldas de São Jorge",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.42%",
+      "DADOS2001": "15.87%",
+      "DADOS2011": "9.93%",
+      "VAR0191": "-39.93%",
+      "VAR1101": "-37.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canedo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "41.11%",
+      "DADOS2001": "23.48%",
+      "DADOS2011": "13.99%",
+      "VAR0191": "-42.88%",
+      "VAR1101": "-40.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escapães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.51%",
+      "DADOS2001": "17.15%",
+      "DADOS2011": "9.56%",
+      "VAR0191": "-43.79%",
+      "VAR1101": "-44.26%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espargo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.27%",
+      "DADOS2001": "16.83%",
+      "DADOS2011": "10.68%",
+      "VAR0191": "-42.5%",
+      "VAR1101": "-36.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Feira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.58%",
+      "DADOS2001": "13.66%",
+      "DADOS2011": "8.92%",
+      "VAR0191": "-36.7%",
+      "VAR1101": "-34.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fiães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.62%",
+      "DADOS2001": "19.19%",
+      "DADOS2011": "12.07%",
+      "VAR0191": "-42.92%",
+      "VAR1101": "-37.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.45%",
+      "DADOS2001": "15.73%",
+      "DADOS2011": "8.64%",
+      "VAR0191": "-49.98%",
+      "VAR1101": "-45.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.1%",
+      "DADOS2001": "14.45%",
+      "DADOS2011": "9.08%",
+      "VAR0191": "-50.34%",
+      "VAR1101": "-37.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guisande",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.71%",
+      "DADOS2001": "22.15%",
+      "DADOS2011": "9.58%",
+      "VAR0191": "-37.97%",
+      "VAR1101": "-56.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lobão",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.48%",
+      "DADOS2001": "20.6%",
+      "DADOS2011": "13.79%",
+      "VAR0191": "-41.94%",
+      "VAR1101": "-33.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "49.22%",
+      "DADOS2001": "30.58%",
+      "DADOS2011": "16.39%",
+      "VAR0191": "-37.87%",
+      "VAR1101": "-46.4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lourosa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.56%",
+      "DADOS2001": "19.91%",
+      "DADOS2011": "13.72%",
+      "VAR0191": "-34.85%",
+      "VAR1101": "-31.09%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós de Poiares",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.71%",
+      "DADOS2001": "16.12%",
+      "DADOS2011": "12.95%",
+      "VAR0191": "-45.74%",
+      "VAR1101": "-19.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mosteirô",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.26%",
+      "DADOS2001": "14.85%",
+      "DADOS2011": "13.23%",
+      "VAR0191": "-55.35%",
+      "VAR1101": "-10.91%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mozelos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.69%",
+      "DADOS2001": "17.01%",
+      "DADOS2011": "12.58%",
+      "VAR0191": "-46.32%",
+      "VAR1101": "-26.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira da Regedoura",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.77%",
+      "DADOS2001": "19.88%",
+      "DADOS2011": "13.2%",
+      "VAR0191": "-42.82%",
+      "VAR1101": "-33.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paços de Brandão",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.14%",
+      "DADOS2001": "14.82%",
+      "DADOS2011": "10.69%",
+      "VAR0191": "-35.96%",
+      "VAR1101": "-27.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pigeiros",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "40.59%",
+      "DADOS2001": "24.34%",
+      "DADOS2011": "18.23%",
+      "VAR0191": "-40.03%",
+      "VAR1101": "-25.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Meão",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.35%",
+      "DADOS2001": "17.85%",
+      "DADOS2011": "12.19%",
+      "VAR0191": "-44.82%",
+      "VAR1101": "-31.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Romariz",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "49.71%",
+      "DADOS2001": "22.3%",
+      "DADOS2011": "12.88%",
+      "VAR0191": "-55.14%",
+      "VAR1101": "-42.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanfins",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.98%",
+      "DADOS2001": "15.22%",
+      "DADOS2011": "10.65%",
+      "VAR0191": "-45.6%",
+      "VAR1101": "-30.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanguedo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.42%",
+      "DADOS2001": "20.97%",
+      "DADOS2011": "15.09%",
+      "VAR0191": "-40.8%",
+      "VAR1101": "-28.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Maria de Lamas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.52%",
+      "DADOS2001": "15.8%",
+      "DADOS2011": "12.37%",
+      "VAR0191": "-42.59%",
+      "VAR1101": "-21.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João de Ver",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.28%",
+      "DADOS2001": "16.15%",
+      "DADOS2011": "10.15%",
+      "VAR0191": "-44.84%",
+      "VAR1101": "-37.15%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Paio de Oleiros",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.21%",
+      "DADOS2001": "15.27%",
+      "DADOS2011": "11.71%",
+      "VAR0191": "-51.07%",
+      "VAR1101": "-23.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Souto",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.52%",
+      "DADOS2001": "18.78%",
+      "DADOS2011": "11.22%",
+      "VAR0191": "-34.15%",
+      "VAR1101": "-40.26%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Travanca",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.23%",
+      "DADOS2001": "14.5%",
+      "DADOS2011": "10.58%",
+      "VAR0191": "-46.75%",
+      "VAR1101": "-27.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vale",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.18%",
+      "DADOS2001": "17.29%",
+      "DADOS2011": "11.4%",
+      "VAR0191": "-38.64%",
+      "VAR1101": "-34.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Maior",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.2%",
+      "DADOS2001": "18.97%",
+      "DADOS2011": "11.56%",
+      "VAR0191": "-47.6%",
+      "VAR1101": "-39.06%"
+    },
+    {
+      "Concelho": "Santo Tirso",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.72%",
+      "DADOS2001": "18.88%",
+      "DADOS2011": "11.21%",
+      "VAR0191": "-34.26%",
+      "VAR1101": "-40.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Agrela",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "40.9%",
+      "DADOS2001": "23.09%",
+      "DADOS2011": "11.64%",
+      "VAR0191": "-43.55%",
+      "VAR1101": "-49.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Água Longa",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.08%",
+      "DADOS2001": "23.95%",
+      "DADOS2011": "9.43%",
+      "VAR0191": "-35.41%",
+      "VAR1101": "-60.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarelhos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.61%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-28.95%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Areias",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.45%",
+      "DADOS2001": "15.39%",
+      "DADOS2011": "10.02%",
+      "VAR0191": "-34.37%",
+      "VAR1101": "-34.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aves",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.6%",
+      "DADOS2001": "15.66%",
+      "DADOS2011": "10.43%",
+      "VAR0191": "-33.64%",
+      "VAR1101": "-33.4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (Santiago)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.07%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-33.62%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (São Martinho)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.33%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-31.76%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Burgães",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.02%",
+      "DADOS2001": "20.57%",
+      "DADOS2011": "11.86%",
+      "VAR0191": "-42.89%",
+      "VAR1101": "-42.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campo (São Martinho)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.17%",
+      "DADOS2001": "21.78%",
+      "DADOS2011": "12.22%",
+      "VAR0191": "-36.26%",
+      "VAR1101": "-43.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carreira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.12%",
+      "DADOS2001": "15.96%",
+      "DADOS2011": "8.87%",
+      "VAR0191": "-47.01%",
+      "VAR1101": "-44.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Mamede)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.28%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-39.1%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Romão)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.32%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-25.28%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Couto (Santa Cristina)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.36%",
+      "DADOS2001": "14.84%",
+      "DADOS2011": "11%",
+      "VAR0191": "-45.76%",
+      "VAR1101": "-25.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Couto (São Miguel)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.33%",
+      "DADOS2001": "16.79%",
+      "DADOS2011": "8.33%",
+      "VAR0191": "-36.23%",
+      "VAR1101": "-50.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.59%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-24.96%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guidões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "43.06%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-21.27%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guimarei",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.5%",
+      "DADOS2001": "26.29%",
+      "DADOS2011": "11.02%",
+      "VAR0191": "-29.89%",
+      "VAR1101": "-58.08%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lama",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.7%",
+      "DADOS2001": "18.57%",
+      "DADOS2011": "9.49%",
+      "VAR0191": "-39.51%",
+      "VAR1101": "-48.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lamelas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.23%",
+      "DADOS2001": "20.48%",
+      "DADOS2011": "11%",
+      "VAR0191": "-29.93%",
+      "VAR1101": "-46.29%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Monte Córdova",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.47%",
+      "DADOS2001": "22.31%",
+      "DADOS2011": "13.03%",
+      "VAR0191": "-29.11%",
+      "VAR1101": "-41.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Muro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.61%",
+      "DADOS2001": " ",
+      "DADOS2011": " ",
+      "VAR0191": "-8.57%",
+      "VAR1101": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Mamede)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.8%",
+      "DADOS2001": "21.12%",
+      "DADOS2011": "12.1%",
+      "VAR0191": "-21.19%",
+      "VAR1101": "-42.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Tomé)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.21%",
+      "DADOS2001": "19.09%",
+      "DADOS2011": "9.78%",
+      "VAR0191": "-36.81%",
+      "VAR1101": "-48.77%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Palmeira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.97%",
+      "DADOS2001": "18.07%",
+      "DADOS2011": "10.04%",
+      "VAR0191": "-21.33%",
+      "VAR1101": "-44.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.17%",
+      "DADOS2001": "16.29%",
+      "DADOS2011": "7.62%",
+      "VAR0191": "-37.75%",
+      "VAR1101": "-53.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Refojos de Riba de Ave",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "43.62%",
+      "DADOS2001": "28.78%",
+      "DADOS2011": "15.34%",
+      "VAR0191": "-34.02%",
+      "VAR1101": "-46.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Reguenga",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.65%",
+      "DADOS2001": "21.15%",
+      "DADOS2011": "10.19%",
+      "VAR0191": "-37.15%",
+      "VAR1101": "-51.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roriz",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.62%",
+      "DADOS2001": "22.71%",
+      "DADOS2011": "13.28%",
+      "VAR0191": "-32.45%",
+      "VAR1101": "-41.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santo Tirso",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.81%",
+      "DADOS2001": "15.38%",
+      "DADOS2011": "10.55%",
+      "VAR0191": "-29.48%",
+      "VAR1101": "-31.4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Salvador do Campo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.75%",
+      "DADOS2001": "20%",
+      "DADOS2011": "11.11%",
+      "VAR0191": "-42.45%",
+      "VAR1101": "-44.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sequeiró",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.32%",
+      "DADOS2001": "19.53%",
+      "DADOS2011": "13.94%",
+      "VAR0191": "-28.51%",
+      "VAR1101": "-28.62%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilarinho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.37%",
+      "DADOS2001": "27.16%",
+      "DADOS2011": "18.1%",
+      "VAR0191": "-31.01%",
+      "VAR1101": "-33.36%"
+    },
+    {
+      "Concelho": "São João da Madeira",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "20.68%",
+      "DADOS2001": "13.77%",
+      "DADOS2011": "9.22%",
+      "VAR0191": "-33.41%",
+      "VAR1101": "-33.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João da Madeira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "20.68%",
+      "DADOS2001": "13.77%",
+      "DADOS2011": "9.22%",
+      "VAR0191": "-33.41%",
+      "VAR1101": "-33.04%"
+    },
+    {
+      "Concelho": "Trofa",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "20.88%",
+      "DADOS2011": "13.8%",
+      "VAR0191": "Não aplicável",
+      "VAR1101": "-33.91%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarelhos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "24.59%",
+      "DADOS2011": "10.9%",
+      "VAR0191": "-28.95%",
+      "VAR1101": "-55.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (Santiago)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "19.96%",
+      "DADOS2011": "12.12%",
+      "VAR0191": "-33.62%",
+      "VAR1101": "-39.28%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (São Martinho)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "18.65%",
+      "DADOS2011": "14.46%",
+      "VAR0191": "-31.76%",
+      "VAR1101": "-22.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Mamede)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "19.66%",
+      "DADOS2011": "14.33%",
+      "VAR0191": "-39.1%",
+      "VAR1101": "-27.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Romão)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "21.16%",
+      "DADOS2011": "14.61%",
+      "VAR0191": "-25.28%",
+      "VAR1101": "-30.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "29.71%",
+      "DADOS2011": "13.74%",
+      "VAR0191": "-24.96%",
+      "VAR1101": "-53.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guidões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "33.9%",
+      "DADOS2011": "17.43%",
+      "VAR0191": "-21.27%",
+      "VAR1101": "-48.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Muro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "17.93%",
+      "DADOS2011": "12.05%",
+      "VAR0191": "-8.57%",
+      "VAR1101": "-32.79%"
+    },
+    {
+      "Concelho": "Vale de Cambra",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.3%",
+      "DADOS2001": "14.13%",
+      "DADOS2011": "7.63%",
+      "VAR0191": "-39.36%",
+      "VAR1101": "-46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.56%",
+      "DADOS2001": "23.1%",
+      "DADOS2011": "9.38%",
+      "VAR0191": "-21.85%",
+      "VAR1101": "-59.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cepelos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.15%",
+      "DADOS2001": "16.77%",
+      "DADOS2011": "7.71%",
+      "VAR0191": "-27.56%",
+      "VAR1101": "-54.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Codal",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.81%",
+      "DADOS2001": "10.81%",
+      "DADOS2011": "5.29%",
+      "VAR0191": "-54.6%",
+      "VAR1101": "-51.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.37%",
+      "DADOS2001": "19.53%",
+      "DADOS2011": "10.9%",
+      "VAR0191": "-37.74%",
+      "VAR1101": "-44.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Cambra",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.14%",
+      "DADOS2001": "13.15%",
+      "DADOS2011": "7.69%",
+      "VAR0191": "-40.61%",
+      "VAR1101": "-41.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roge",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.1%",
+      "DADOS2001": "13.68%",
+      "DADOS2011": "5.5%",
+      "VAR0191": "-35.17%",
+      "VAR1101": "-59.8%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro de Castelões",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.54%",
+      "DADOS2001": "12.77%",
+      "DADOS2011": "7.65%",
+      "VAR0191": "-40.71%",
+      "VAR1101": "-40.09%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.45%",
+      "DADOS2001": "11.7%",
+      "DADOS2011": "7.34%",
+      "VAR0191": "-45.45%",
+      "VAR1101": "-37.26%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Cova de Perrinho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.33%",
+      "DADOS2001": "20.13%",
+      "DADOS2011": "9.15%",
+      "VAR0191": "-39.6%",
+      "VAR1101": "-54.55%"
+    },
+    {
+      "Concelho": "Valongo",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.31%",
+      "DADOS2001": "20.13%",
+      "DADOS2011": "13.93%",
+      "VAR0191": "-35.71%",
+      "VAR1101": "-30.8%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alfena",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.3%",
+      "DADOS2001": "20.15%",
+      "DADOS2011": "14.13%",
+      "VAR0191": "-44.49%",
+      "VAR1101": "-29.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "44.32%",
+      "DADOS2001": "30.84%",
+      "DADOS2011": "17.24%",
+      "VAR0191": "-30.42%",
+      "VAR1101": "-44.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ermesinde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.41%",
+      "DADOS2001": "16.83%",
+      "DADOS2011": "12.66%",
+      "VAR0191": "-33.77%",
+      "VAR1101": "-24.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrado",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "43.48%",
+      "DADOS2001": "28.82%",
+      "DADOS2011": "19.16%",
+      "VAR0191": "-33.72%",
+      "VAR1101": "-33.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valongo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.82%",
+      "DADOS2001": "19.84%",
+      "DADOS2011": "13.53%",
+      "VAR0191": "-35.63%",
+      "VAR1101": "-31.8%"
+    },
+    {
+      "Concelho": "Vila do Conde",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.22%",
+      "DADOS2001": "19.08%",
+      "DADOS2011": "12.27%",
+      "VAR0191": "-34.7%",
+      "VAR1101": "-35.69%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcos",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.98%",
+      "DADOS2001": "24.02%",
+      "DADOS2011": "12.4%",
+      "VAR0191": "-29.31%",
+      "VAR1101": "-48.38%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Árvore",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.21%",
+      "DADOS2001": "12.88%",
+      "DADOS2011": "10.26%",
+      "VAR0191": "-42.01%",
+      "VAR1101": "-20.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aveleda",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "38.11%",
+      "DADOS2001": "18.16%",
+      "DADOS2011": "12.5%",
+      "VAR0191": "-52.35%",
+      "VAR1101": "-31.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Azurara",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.51%",
+      "DADOS2001": "16.15%",
+      "DADOS2011": "10.28%",
+      "VAR0191": "-36.69%",
+      "VAR1101": "-36.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bagunte",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.93%",
+      "DADOS2001": "27.65%",
+      "DADOS2011": "12.28%",
+      "VAR0191": "-25.13%",
+      "VAR1101": "-55.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "38.46%",
+      "DADOS2001": "26.1%",
+      "DADOS2011": "17.09%",
+      "VAR0191": "-32.14%",
+      "VAR1101": "-34.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajozes",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.36%",
+      "DADOS2001": "19.01%",
+      "DADOS2011": "13.25%",
+      "VAR0191": "-37.38%",
+      "VAR1101": "-30.3%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ferreiró",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.86%",
+      "DADOS2001": "23.5%",
+      "DADOS2011": "11.32%",
+      "VAR0191": "-34.47%",
+      "VAR1101": "-51.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.76%",
+      "DADOS2001": "18.5%",
+      "DADOS2011": "10.94%",
+      "VAR0191": "-37.84%",
+      "VAR1101": "-40.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.25%",
+      "DADOS2001": "22.35%",
+      "DADOS2011": "13.3%",
+      "VAR0191": "-30.7%",
+      "VAR1101": "-40.49%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guilhabreu",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.26%",
+      "DADOS2001": "21.92%",
+      "DADOS2011": "11.8%",
+      "VAR0191": "-32.05%",
+      "VAR1101": "-46.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "26.83%",
+      "DADOS2001": "22.28%",
+      "DADOS2011": "12.54%",
+      "VAR0191": "-16.96%",
+      "VAR1101": "-43.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Labruge",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.51%",
+      "DADOS2001": "20.03%",
+      "DADOS2011": "11.96%",
+      "VAR0191": "-36.43%",
+      "VAR1101": "-40.29%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira da Maia",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.6%",
+      "DADOS2001": "16.94%",
+      "DADOS2011": "11.1%",
+      "VAR0191": "-40.77%",
+      "VAR1101": "-34.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Malta",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.25%",
+      "DADOS2001": "16.76%",
+      "DADOS2011": "9.5%",
+      "VAR0191": "-46.37%",
+      "VAR1101": "-43.32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mindelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "19.35%",
+      "DADOS2001": "16.43%",
+      "DADOS2011": "9.24%",
+      "VAR0191": "-15.09%",
+      "VAR1101": "-43.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Modivas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.31%",
+      "DADOS2001": "19.38%",
+      "DADOS2011": "11.07%",
+      "VAR0191": "-33.88%",
+      "VAR1101": "-42.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mosteiró",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.75%",
+      "DADOS2001": "15.96%",
+      "DADOS2011": "12.54%",
+      "VAR0191": "-42.49%",
+      "VAR1101": "-21.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Outeiro Maior",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.23%",
+      "DADOS2001": "27.37%",
+      "DADOS2011": "12.37%",
+      "VAR0191": "-9.46%",
+      "VAR1101": "-54.8%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.8%",
+      "DADOS2001": "27.37%",
+      "DADOS2011": "9.57%",
+      "VAR0191": "-19.02%",
+      "VAR1101": "-65.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Retorta",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.36%",
+      "DADOS2001": "12.54%",
+      "DADOS2011": "9.92%",
+      "VAR0191": "-43.92%",
+      "VAR1101": "-20.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Mau",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.55%",
+      "DADOS2001": "27.86%",
+      "DADOS2011": "13.53%",
+      "VAR0191": "-29.56%",
+      "VAR1101": "-51.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tougues",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.08%",
+      "DADOS2001": "19.23%",
+      "DADOS2011": "9.68%",
+      "VAR0191": "-43.57%",
+      "VAR1101": "-49.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Touguinha",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "23.37%",
+      "DADOS2001": "14.67%",
+      "DADOS2011": "10.67%",
+      "VAR0191": "-37.23%",
+      "VAR1101": "-27.27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Touguinhó",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.98%",
+      "DADOS2001": "20.91%",
+      "DADOS2011": "10.3%",
+      "VAR0191": "-38.46%",
+      "VAR1101": "-50.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vairão",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.5%",
+      "DADOS2001": "21.3%",
+      "DADOS2011": "13.81%",
+      "VAR0191": "-27.8%",
+      "VAR1101": "-35.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.37%",
+      "DADOS2001": "17.34%",
+      "DADOS2011": "9.03%",
+      "VAR0191": "-40.96%",
+      "VAR1101": "-47.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila do Conde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.78%",
+      "DADOS2001": "19.01%",
+      "DADOS2011": "13.79%",
+      "VAR0191": "-33.95%",
+      "VAR1101": "-27.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.59%",
+      "DADOS2001": "20.15%",
+      "DADOS2011": "13.59%",
+      "VAR0191": "-38.17%",
+      "VAR1101": "-32.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Pinheiro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.54%",
+      "DADOS2001": "20.39%",
+      "DADOS2011": "12.88%",
+      "VAR0191": "-25.96%",
+      "VAR1101": "-36.83%"
+    },
+    {
+      "Concelho": "Vila Nova de Gaia",
+      "Freguesia": "Concelho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.68%",
+      "DADOS2001": "19.49%",
+      "DADOS2011": "13.83%",
+      "VAR0191": "-38.48%",
+      "VAR1101": "-29.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcozelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "25.1%",
+      "DADOS2001": "16.04%",
+      "DADOS2011": "11.27%",
+      "VAR0191": "-36.1%",
+      "VAR1101": "-29.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avintes",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.96%",
+      "DADOS2001": "22.79%",
+      "DADOS2011": "15.39%",
+      "VAR0191": "-38.34%",
+      "VAR1101": "-32.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.24%",
+      "DADOS2001": "18.43%",
+      "DADOS2011": "14.81%",
+      "VAR0191": "-49.14%",
+      "VAR1101": "-19.64%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "31.84%",
+      "DADOS2001": "18.46%",
+      "DADOS2011": "13.44%",
+      "VAR0191": "-42.02%",
+      "VAR1101": "-27.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Crestuma",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "39.78%",
+      "DADOS2001": "26.3%",
+      "DADOS2011": "12.25%",
+      "VAR0191": "-33.89%",
+      "VAR1101": "-53.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Grijó",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.76%",
+      "DADOS2001": "20.39%",
+      "DADOS2011": "13.56%",
+      "VAR0191": "-39.6%",
+      "VAR1101": "-33.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gulpilhares",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "30.78%",
+      "DADOS2001": "16.39%",
+      "DADOS2011": "11.75%",
+      "VAR0191": "-46.75%",
+      "VAR1101": "-28.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lever",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "41.7%",
+      "DADOS2001": "26.69%",
+      "DADOS2011": "15.3%",
+      "VAR0191": "-36%",
+      "VAR1101": "-42.68%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "32.92%",
+      "DADOS2001": "19.42%",
+      "DADOS2011": "12.17%",
+      "VAR0191": "-41.01%",
+      "VAR1101": "-37.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mafamude",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "22.77%",
+      "DADOS2001": "15.29%",
+      "DADOS2011": "11.88%",
+      "VAR0191": "-32.85%",
+      "VAR1101": "-22.3%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Olival",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "45.78%",
+      "DADOS2001": "24.99%",
+      "DADOS2011": "17.64%",
+      "VAR0191": "-45.41%",
+      "VAR1101": "-29.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira do Douro",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "33.76%",
+      "DADOS2001": "21.29%",
+      "DADOS2011": "15.1%",
+      "VAR0191": "-36.94%",
+      "VAR1101": "-29.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedroso",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "37.82%",
+      "DADOS2001": "22.27%",
+      "DADOS2011": "14.02%",
+      "VAR0191": "-41.12%",
+      "VAR1101": "-37.05%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Perozinho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "21.5%",
+      "DADOS2001": "16.88%",
+      "DADOS2011": "10.63%",
+      "VAR0191": "-21.49%",
+      "VAR1101": "-37.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sandim",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.11%",
+      "DADOS2001": "21.3%",
+      "DADOS2011": "14.51%",
+      "VAR0191": "-39.33%",
+      "VAR1101": "-31.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Félix da Marinha",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "35.09%",
+      "DADOS2001": "20.32%",
+      "DADOS2011": "12.17%",
+      "VAR0191": "-42.09%",
+      "VAR1101": "-40.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro da Afurada",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "55%",
+      "DADOS2001": "25.42%",
+      "DADOS2011": "20.85%",
+      "VAR0191": "-53.78%",
+      "VAR1101": "-17.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Seixezelo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.43%",
+      "DADOS2001": "19.82%",
+      "DADOS2011": "13.98%",
+      "VAR0191": "-42.43%",
+      "VAR1101": "-29.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sermonde",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "69.46%",
+      "DADOS2001": "18.01%",
+      "DADOS2011": "13.55%",
+      "VAR0191": "-74.07%",
+      "VAR1101": "-24.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Serzedo",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "36.07%",
+      "DADOS2001": "22.45%",
+      "DADOS2011": "14.71%",
+      "VAR0191": "-37.76%",
+      "VAR1101": "-34.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valadares",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "27.09%",
+      "DADOS2001": "17.31%",
+      "DADOS2011": "12.87%",
+      "VAR0191": "-36.1%",
+      "VAR1101": "-25.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova de Gaia (Santa Marinha)",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "28.73%",
+      "DADOS2001": "19.67%",
+      "DADOS2011": "14.58%",
+      "VAR0191": "-31.53%",
+      "VAR1101": "-25.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Andorinho",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "29.62%",
+      "DADOS2001": "22.58%",
+      "DADOS2011": "17.84%",
+      "VAR0191": "-23.77%",
+      "VAR1101": "-20.99%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar do Paraíso",
+      "Sobrelotacao": "Total",
+      "DADOS1991": "34.19%",
+      "DADOS2001": "19.91%",
+      "DADOS2011": "14.44%",
+      "VAR0191": "-41.77%",
+      "VAR1101": "-27.47%"
+    }
+  ]
