@@ -1,0 +1,2842 @@
+[
+    {
+      "Concelho": "Área Metropolitana do Porto",
+      "Freguesia": "Área Metropolitana do Porto",
+      "Agua": "Total",
+      "DADOS1991": "13.57%",
+      "DADOS2001": "2.81%",
+      "DADOS2011": "1.19%",
+      "VAR0191": "-79.29%",
+      "VAR1101": "-57.65%"
+    },
+    {
+      "Concelho": "Arouca",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "24.87%",
+      "DADOS2001": "4.63%",
+      "DADOS2011": "1.23%",
+      "VAR0191": "-81.38%",
+      "VAR1101": "-73.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Albergaria da Serra",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "13.33%",
+      "DADOS2011": "0%",
+      "VAR0191": " ",
+      "VAR1101": "-100%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarenga",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.73%",
+      "DADOS2011": "2.64%",
+      "VAR0191": " ",
+      "VAR1101": "-53.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arouca",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.11%",
+      "DADOS2011": "0.19%",
+      "VAR0191": " ",
+      "VAR1101": "-82.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Burgo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.82%",
+      "DADOS2011": "0.94%",
+      "VAR0191": " ",
+      "VAR1101": "-66.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cabreiros",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "18.31%",
+      "DADOS2011": "3.7%",
+      "VAR0191": " ",
+      "VAR1101": "-79.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas ",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.39%",
+      "DADOS2011": "1.61%",
+      "VAR0191": " ",
+      "VAR1101": "-52.51%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Chave",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "7.96%",
+      "DADOS2011": "0.46%",
+      "VAR0191": " ",
+      "VAR1101": "-94.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelo de Paivó",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.38%",
+      "DADOS2011": "2.38%",
+      "VAR0191": " ",
+      "VAR1101": "-62.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escariz",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.18%",
+      "DADOS2011": "2.26%",
+      "VAR0191": " ",
+      "VAR1101": "-56.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espiunca",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.7%",
+      "DADOS2011": "0.78%",
+      "VAR0191": " ",
+      "VAR1101": "-83.4%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fermedo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.58%",
+      "DADOS2011": "1.32%",
+      "VAR0191": " ",
+      "VAR1101": "-63.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Janarde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "26.67%",
+      "DADOS2011": "5%",
+      "VAR0191": " ",
+      "VAR1101": "-81.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mansores",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.45%",
+      "DADOS2011": "0.86%",
+      "VAR0191": " ",
+      "VAR1101": "-75.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moldes",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.45%",
+      "DADOS2011": "2.31%",
+      "VAR0191": " ",
+      "VAR1101": "-64.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rossas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.26%",
+      "DADOS2011": "0.76%",
+      "VAR0191": " ",
+      "VAR1101": "-82.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Eulália",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.49%",
+      "DADOS2011": "0.27%",
+      "VAR0191": " ",
+      "VAR1101": "-89.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Miguel do Mato",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "12.77%",
+      "DADOS2011": "4.41%",
+      "VAR0191": " ",
+      "VAR1101": "-65.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tropeço",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.44%",
+      "DADOS2011": "1.74%",
+      "VAR0191": " ",
+      "VAR1101": "-72.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Urrô",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.06%",
+      "DADOS2011": "0.85%",
+      "VAR0191": " ",
+      "VAR1101": "-72.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Várzea",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.31%",
+      "DADOS2011": "0%",
+      "VAR0191": " ",
+      "VAR1101": "-100%"
+    },
+    {
+      "Concelho": "Espinho",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "11.08%",
+      "DADOS2001": "1.46%",
+      "DADOS2011": "0.56%",
+      "VAR0191": "-86.82%",
+      "VAR1101": "-61.64%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Anta",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.94%",
+      "DADOS2011": "0.56%",
+      "VAR0191": " ",
+      "VAR1101": "-71.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espinho",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.16%",
+      "DADOS2011": "0.02%",
+      "VAR0191": " ",
+      "VAR1101": "-87.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guetim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.41%",
+      "DADOS2011": "3.52%",
+      "VAR0191": " ",
+      "VAR1101": "-34.94%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paramos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.46%",
+      "DADOS2011": "1.15%",
+      "VAR0191": " ",
+      "VAR1101": "-53.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silvalde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.58%",
+      "DADOS2011": "0.6%",
+      "VAR0191": " ",
+      "VAR1101": "-62.03%"
+    },
+    {
+      "Concelho": "Gondomar",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "5.31%",
+      "DADOS2001": "0.53%",
+      "DADOS2011": "0.31%",
+      "VAR0191": "-90.02%",
+      "VAR1101": "-41.51%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baguim do Monte (Rio Tinto)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.89%",
+      "DADOS2011": "0.59%",
+      "VAR0191": " ",
+      "VAR1101": "-33.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.97%",
+      "DADOS2011": "1.47%",
+      "VAR0191": " ",
+      "VAR1101": "51.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fânzeres",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.48%",
+      "DADOS2011": "0.36%",
+      "VAR0191": " ",
+      "VAR1101": "-25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Foz do Sousa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.59%",
+      "DADOS2011": "0.7%",
+      "VAR0191": " ",
+      "VAR1101": "18.64%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondomar (São Cosme)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.4%",
+      "DADOS2011": "0.17%",
+      "VAR0191": " ",
+      "VAR1101": "-57.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Jovim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.65%",
+      "DADOS2011": "0.5%",
+      "VAR0191": " ",
+      "VAR1101": "-23.08%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lomba",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.02%",
+      "DADOS2011": "1.01%",
+      "VAR0191": " ",
+      "VAR1101": "-74.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Medas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.12%",
+      "DADOS2011": "0.56%",
+      "VAR0191": " ",
+      "VAR1101": "-50%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Melres",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.91%",
+      "DADOS2011": "0.8%",
+      "VAR0191": " ",
+      "VAR1101": "-12.09%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Tinto",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.31%",
+      "DADOS2011": "0.16%",
+      "VAR0191": " ",
+      "VAR1101": "-48.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro da Cova",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.78%",
+      "DADOS2011": "0.32%",
+      "VAR0191": " ",
+      "VAR1101": "-58.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valbom",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.27%",
+      "DADOS2011": "0.26%",
+      "VAR0191": " ",
+      "VAR1101": "-3.7%"
+    },
+    {
+      "Concelho": "Maia",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "14.45%",
+      "DADOS2001": "1.46%",
+      "DADOS2011": "0.69%",
+      "VAR0191": "-89.9%",
+      "VAR1101": "-52.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Águas Santas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.53%",
+      "DADOS2011": "0.75%",
+      "VAR0191": " ",
+      "VAR1101": "-50.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avioso (Santa Maria)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.95%",
+      "DADOS2011": "0.8%",
+      "VAR0191": " ",
+      "VAR1101": "-58.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avioso (São Pedro)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.92%",
+      "DADOS2011": "0.42%",
+      "VAR0191": " ",
+      "VAR1101": "-78.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Barca",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.63%",
+      "DADOS2011": "1.43%",
+      "VAR0191": " ",
+      "VAR1101": "-60.61%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Folgosa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.58%",
+      "DADOS2011": "0.96%",
+      "VAR0191": " ",
+      "VAR1101": "-73.18%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gemunde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.46%",
+      "DADOS2011": "1.33%",
+      "VAR0191": " ",
+      "VAR1101": "-61.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.37%",
+      "DADOS2011": "2.6%",
+      "VAR0191": " ",
+      "VAR1101": "89.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gueifães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.64%",
+      "DADOS2011": "0.52%",
+      "VAR0191": " ",
+      "VAR1101": "-18.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Maia",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.57%",
+      "DADOS2011": "0.23%",
+      "VAR0191": " ",
+      "VAR1101": "-59.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.64%",
+      "DADOS2011": "0.99%",
+      "VAR0191": " ",
+      "VAR1101": "-62.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moreira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.35%",
+      "DADOS2011": "1%",
+      "VAR0191": " ",
+      "VAR1101": "-57.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.81%",
+      "DADOS2011": "1.11%",
+      "VAR0191": " ",
+      "VAR1101": "-38.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedrouços",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.93%",
+      "DADOS2011": "0.29%",
+      "VAR0191": " ",
+      "VAR1101": "-68.82%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro Fins",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.37%",
+      "DADOS2011": "1.01%",
+      "VAR0191": " ",
+      "VAR1101": "172.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silva Escura",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.38%",
+      "DADOS2011": "1.79%",
+      "VAR0191": " ",
+      "VAR1101": "-24.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vermoim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.42%",
+      "DADOS2011": "0.14%",
+      "VAR0191": " ",
+      "VAR1101": "-66.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova da Telha",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.94%",
+      "DADOS2011": "0.67%",
+      "VAR0191": " ",
+      "VAR1101": "-28.72%"
+    },
+    {
+      "Concelho": "Matosinhos",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "10.2%",
+      "DADOS2001": "1.01%",
+      "DADOS2011": "0.42%",
+      "VAR0191": "-90.1%",
+      "VAR1101": "-58.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Custóias",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.26%",
+      "DADOS2011": "0.51%",
+      "VAR0191": " ",
+      "VAR1101": "-59.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guifões",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.25%",
+      "DADOS2011": "0.56%",
+      "VAR0191": " ",
+      "VAR1101": "-55.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lavra",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.64%",
+      "DADOS2011": "1.02%",
+      "VAR0191": " ",
+      "VAR1101": "-61.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Leça da Palmeira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.69%",
+      "DADOS2011": "0.17%",
+      "VAR0191": " ",
+      "VAR1101": "-75.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Leça do Balio",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.48%",
+      "DADOS2011": "0.93%",
+      "VAR0191": " ",
+      "VAR1101": "-37.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Matosinhos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.49%",
+      "DADOS2011": "0.13%",
+      "VAR0191": " ",
+      "VAR1101": "-73.47%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Perafita",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.68%",
+      "DADOS2011": "0.54%",
+      "VAR0191": " ",
+      "VAR1101": "-67.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Cruz do Bispo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.31%",
+      "DADOS2011": "1.33%",
+      "VAR0191": " ",
+      "VAR1101": "1.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Mamede de Infesta",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.77%",
+      "DADOS2011": "0.34%",
+      "VAR0191": " ",
+      "VAR1101": "-55.84%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Senhora da Hora",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.61%",
+      "DADOS2011": "0.17%",
+      "VAR0191": " ",
+      "VAR1101": "-72.13%"
+    },
+    {
+      "Concelho": "Oliveira de Azeméis",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "13.02%",
+      "DADOS2001": "2.78%",
+      "DADOS2011": "1.29%",
+      "VAR0191": "-78.65%",
+      "VAR1101": "-53.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carregosa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.84%",
+      "DADOS2011": "1.42%",
+      "VAR0191": " ",
+      "VAR1101": "-22.83%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cesar",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.65%",
+      "DADOS2011": "0.79%",
+      "VAR0191": " ",
+      "VAR1101": "-70.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajões",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.02%",
+      "DADOS2011": "1.88%",
+      "VAR0191": " ",
+      "VAR1101": "-53.23%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Loureiro",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.96%",
+      "DADOS2011": "1.1%",
+      "VAR0191": " ",
+      "VAR1101": "-62.84%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Sarnes",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.56%",
+      "DADOS2011": "2.46%",
+      "VAR0191": " ",
+      "VAR1101": "-30.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macinhata da Seixa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.02%",
+      "DADOS2011": "1.75%",
+      "VAR0191": " ",
+      "VAR1101": "-65.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madail",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.19%",
+      "DADOS2011": "0.73%",
+      "VAR0191": " ",
+      "VAR1101": "-66.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira do Cravo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.92%",
+      "DADOS2011": "0.81%",
+      "VAR0191": " ",
+      "VAR1101": "-57.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira de Azeméis",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.3%",
+      "DADOS2011": "0.41%",
+      "VAR0191": " ",
+      "VAR1101": "-68.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ossela",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.97%",
+      "DADOS2011": "1.17%",
+      "VAR0191": " ",
+      "VAR1101": "-83.21%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Palmaz",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.22%",
+      "DADOS2011": "2.46%",
+      "VAR0191": " ",
+      "VAR1101": "-52.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pindelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.92%",
+      "DADOS2011": "2.08%",
+      "VAR0191": " ",
+      "VAR1101": "-46.94%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pinheiro da Bemposta",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.67%",
+      "DADOS2011": "0.96%",
+      "VAR0191": " ",
+      "VAR1101": "-64.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santiago de Riba-Ul",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.29%",
+      "DADOS2011": "1.22%",
+      "VAR0191": " ",
+      "VAR1101": "-46.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Martinho da Gândara",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.54%",
+      "DADOS2011": "2.47%",
+      "VAR0191": " ",
+      "VAR1101": "-2.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Roque",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.76%",
+      "DADOS2011": "0.66%",
+      "VAR0191": " ",
+      "VAR1101": "-62.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Travanca",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.16%",
+      "DADOS2011": "2.64%",
+      "VAR0191": " ",
+      "VAR1101": "127.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ul",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.18%",
+      "DADOS2011": "0.95%",
+      "VAR0191": " ",
+      "VAR1101": "-77.27%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila de Cucujães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.04%",
+      "DADOS2011": "1.9%",
+      "VAR0191": " ",
+      "VAR1101": "-37.5%"
+    },
+    {
+      "Concelho": "Paredes",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "25.84%",
+      "DADOS2001": "3.62%",
+      "DADOS2011": "1.36%",
+      "VAR0191": "-85.99%",
+      "VAR1101": "-62.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguiar de Sousa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.25%",
+      "DADOS2011": "0.59%",
+      "VAR0191": " ",
+      "VAR1101": "-88.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Astromil",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.66%",
+      "DADOS2011": "2.03%",
+      "VAR0191": " ",
+      "VAR1101": "-44.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baltar",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.37%",
+      "DADOS2011": "2.36%",
+      "VAR0191": " ",
+      "VAR1101": "-29.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beire",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.91%",
+      "DADOS2011": "2.4%",
+      "VAR0191": " ",
+      "VAR1101": "-59.39%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Besteiros",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.39%",
+      "DADOS2011": "1.07%",
+      "VAR0191": " ",
+      "VAR1101": "-68.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bitarães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.5%",
+      "DADOS2011": "1.1%",
+      "VAR0191": " ",
+      "VAR1101": "-56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Castelões de Cepeda",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.25%",
+      "DADOS2011": "0.58%",
+      "VAR0191": " ",
+      "VAR1101": "-53.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cete",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.27%",
+      "DADOS2011": "0.76%",
+      "VAR0191": " ",
+      "VAR1101": "-82.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cristelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.94%",
+      "DADOS2011": "0.85%",
+      "VAR0191": " ",
+      "VAR1101": "-78.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Duas Igrejas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.98%",
+      "DADOS2011": "2.24%",
+      "VAR0191": " ",
+      "VAR1101": "-43.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gandra",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.63%",
+      "DADOS2011": "0.66%",
+      "VAR0191": " ",
+      "VAR1101": "-74.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gondalães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "8.31%",
+      "DADOS2011": "0.78%",
+      "VAR0191": " ",
+      "VAR1101": "-90.61%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.89%",
+      "DADOS2011": "2.49%",
+      "VAR0191": " ",
+      "VAR1101": "-57.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.3%",
+      "DADOS2011": "2.87%",
+      "VAR0191": " ",
+      "VAR1101": "-54.44%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.22%",
+      "DADOS2011": "0.79%",
+      "VAR0191": " ",
+      "VAR1101": "-35.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mouriz",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.34%",
+      "DADOS2011": "2.99%",
+      "VAR0191": " ",
+      "VAR1101": "-44.01%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada de Todeia",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.25%",
+      "DADOS2011": "0.33%",
+      "VAR0191": " ",
+      "VAR1101": "-92.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordosa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.96%",
+      "DADOS2011": "1.39%",
+      "VAR0191": " ",
+      "VAR1101": "-53.04%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Recarei",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.61%",
+      "DADOS2011": "0.73%",
+      "VAR0191": " ",
+      "VAR1101": "-54.66%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobreira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.46%",
+      "DADOS2011": "0.79%",
+      "VAR0191": " ",
+      "VAR1101": "-45.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrosa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.19%",
+      "DADOS2011": "1.48%",
+      "VAR0191": " ",
+      "VAR1101": "-71.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vandoma",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.15%",
+      "DADOS2011": "1.07%",
+      "VAR0191": " ",
+      "VAR1101": "-82.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Cova de Carros",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "11.92%",
+      "DADOS2011": "1.46%",
+      "VAR0191": " ",
+      "VAR1101": "-87.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilela",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.96%",
+      "DADOS2011": "0.92%",
+      "VAR0191": " ",
+      "VAR1101": "-68.92%"
+    },
+    {
+      "Concelho": "Porto",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "2.73%",
+      "DADOS2001": "0.89%",
+      "DADOS2011": "0.29%",
+      "VAR0191": "-67.4%",
+      "VAR1101": "-67.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aldoar",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.32%",
+      "DADOS2011": "0.21%",
+      "VAR0191": " ",
+      "VAR1101": "-34.38%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bonfim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.35%",
+      "DADOS2011": "0.41%",
+      "VAR0191": " ",
+      "VAR1101": "-69.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campanhã",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.12%",
+      "DADOS2011": "0.8%",
+      "VAR0191": " ",
+      "VAR1101": "-28.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cedofeita",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.09%",
+      "DADOS2011": "0.33%",
+      "VAR0191": " ",
+      "VAR1101": "-69.72%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Foz do Douro",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.25%",
+      "DADOS2011": "0.11%",
+      "VAR0191": " ",
+      "VAR1101": "-56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo do Ouro",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.61%",
+      "DADOS2011": "0.11%",
+      "VAR0191": " ",
+      "VAR1101": "-81.97%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Massarelos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.33%",
+      "DADOS2011": "0.13%",
+      "VAR0191": " ",
+      "VAR1101": "-90.23%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Miragaia",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.66%",
+      "DADOS2011": "0.52%",
+      "VAR0191": " ",
+      "VAR1101": "-68.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nevogilde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.64%",
+      "DADOS2011": "0.15%",
+      "VAR0191": " ",
+      "VAR1101": "-76.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paranhos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.62%",
+      "DADOS2011": "0.15%",
+      "VAR0191": " ",
+      "VAR1101": "-75.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ramalde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.58%",
+      "DADOS2011": "0.14%",
+      "VAR0191": " ",
+      "VAR1101": "-75.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santo Ildefonso",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.97%",
+      "DADOS2011": "0.14%",
+      "VAR0191": " ",
+      "VAR1101": "-85.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Nicolau",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.02%",
+      "DADOS2011": "0.38%",
+      "VAR0191": " ",
+      "VAR1101": "-81.19%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sé",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.24%",
+      "DADOS2011": "0.69%",
+      "VAR0191": " ",
+      "VAR1101": "-78.7%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vitória",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.56%",
+      "DADOS2011": "0.35%",
+      "VAR0191": " ",
+      "VAR1101": "-37.5%"
+    },
+    {
+      "Concelho": "Póvoa de Varzim",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "9.76%",
+      "DADOS2001": "1.34%",
+      "DADOS2011": "0.38%",
+      "VAR0191": "-86.27%",
+      "VAR1101": "-71.64%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "A Ver-o-Mar",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.17%",
+      "DADOS2011": "0.29%",
+      "VAR0191": " ",
+      "VAR1101": "-75.21%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguçadoura",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.46%",
+      "DADOS2011": "0.74%",
+      "VAR0191": " ",
+      "VAR1101": "-69.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Amorim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.35%",
+      "DADOS2011": "0.59%",
+      "VAR0191": " ",
+      "VAR1101": "-74.89%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argivai",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.15%",
+      "DADOS2011": "1.39%",
+      "VAR0191": " ",
+      "VAR1101": "-35.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Balazar",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.14%",
+      "DADOS2011": "0.62%",
+      "VAR0191": " ",
+      "VAR1101": "-45.61%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beiriz",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.68%",
+      "DADOS2011": "0.59%",
+      "VAR0191": " ",
+      "VAR1101": "-64.88%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Estela",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.18%",
+      "DADOS2011": "0.77%",
+      "VAR0191": " ",
+      "VAR1101": "-81.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Laundos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.12%",
+      "DADOS2011": "0.53%",
+      "VAR0191": " ",
+      "VAR1101": "-75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Navais",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "9.94%",
+      "DADOS2011": "2.51%",
+      "VAR0191": " ",
+      "VAR1101": "-74.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Póvoa de Varzim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.21%",
+      "DADOS2011": "0.06%",
+      "VAR0191": " ",
+      "VAR1101": "-71.43%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rates",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.45%",
+      "DADOS2011": "0.73%",
+      "VAR0191": " ",
+      "VAR1101": "-70.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Terroso",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.55%",
+      "DADOS2011": "0.82%",
+      "VAR0191": " ",
+      "VAR1101": "-67.84%"
+    },
+    {
+      "Concelho": "Santa Maria da Feira",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "15.12%",
+      "DADOS2001": "2.02%",
+      "DADOS2011": "1.07%",
+      "VAR0191": "-86.64%",
+      "VAR1101": "-47.03%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argoncilhe",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.33%",
+      "DADOS2011": "0.79%",
+      "VAR0191": " ",
+      "VAR1101": "-40.6%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arrifana",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.58%",
+      "DADOS2011": "1.57%",
+      "VAR0191": " ",
+      "VAR1101": "-0.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Caldas de São Jorge",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.9%",
+      "DADOS2011": "1.49%",
+      "VAR0191": " ",
+      "VAR1101": "-21.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canedo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.06%",
+      "DADOS2011": "0.85%",
+      "VAR0191": " ",
+      "VAR1101": "-58.74%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escapães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.14%",
+      "DADOS2011": "1.39%",
+      "VAR0191": " ",
+      "VAR1101": "-35.05%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espargo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.33%",
+      "DADOS2011": "1.17%",
+      "VAR0191": " ",
+      "VAR1101": "-72.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Feira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.38%",
+      "DADOS2011": "0.28%",
+      "VAR0191": " ",
+      "VAR1101": "-26.32%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fiães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.32%",
+      "DADOS2011": "1%",
+      "VAR0191": " ",
+      "VAR1101": "-24.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.91%",
+      "DADOS2011": "2.08%",
+      "VAR0191": " ",
+      "VAR1101": "-28.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.14%",
+      "DADOS2011": "0.33%",
+      "VAR0191": " ",
+      "VAR1101": "-71.05%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guisande",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.51%",
+      "DADOS2011": "0.93%",
+      "VAR0191": " ",
+      "VAR1101": "-62.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lobão",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.68%",
+      "DADOS2011": "1.14%",
+      "VAR0191": " ",
+      "VAR1101": "-57.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "6.27%",
+      "DADOS2011": "2.21%",
+      "VAR0191": " ",
+      "VAR1101": "-64.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lourosa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.46%",
+      "DADOS2011": "1.27%",
+      "VAR0191": " ",
+      "VAR1101": "-48.37%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós de Poiares",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.09%",
+      "DADOS2011": "1.49%",
+      "VAR0191": " ",
+      "VAR1101": "-63.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mosteirô",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.37%",
+      "DADOS2011": "2.28%",
+      "VAR0191": " ",
+      "VAR1101": "-3.8%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mozelos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.54%",
+      "DADOS2011": "0.8%",
+      "VAR0191": " ",
+      "VAR1101": "-48.05%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira da Regedoura",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.09%",
+      "DADOS2011": "1.15%",
+      "VAR0191": " ",
+      "VAR1101": "-44.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paços de Brandão",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.24%",
+      "DADOS2011": "0.39%",
+      "VAR0191": " ",
+      "VAR1101": "-82.59%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pigeiros",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.39%",
+      "DADOS2011": "0.49%",
+      "VAR0191": " ",
+      "VAR1101": "-79.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Meão",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.48%",
+      "DADOS2011": "0.93%",
+      "VAR0191": " ",
+      "VAR1101": "-37.16%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Romariz",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.56%",
+      "DADOS2011": "1.16%",
+      "VAR0191": " ",
+      "VAR1101": "-67.42%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanfins",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.07%",
+      "DADOS2011": "1.98%",
+      "VAR0191": " ",
+      "VAR1101": "-60.95%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanguedo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.3%",
+      "DADOS2011": "2.02%",
+      "VAR0191": " ",
+      "VAR1101": "-38.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Maria de Lamas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.15%",
+      "DADOS2011": "0.73%",
+      "VAR0191": " ",
+      "VAR1101": "-36.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João de Ver",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.52%",
+      "DADOS2011": "0.76%",
+      "VAR0191": " ",
+      "VAR1101": "-69.84%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Paio de Oleiros",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2%",
+      "DADOS2011": "1.34%",
+      "VAR0191": " ",
+      "VAR1101": "-33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Souto",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.9%",
+      "DADOS2011": "1.71%",
+      "VAR0191": " ",
+      "VAR1101": "-10%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Travanca",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.2%",
+      "DADOS2011": "0.93%",
+      "VAR0191": " ",
+      "VAR1101": "-22.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vale",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.86%",
+      "DADOS2011": "2.19%",
+      "VAR0191": " ",
+      "VAR1101": "154.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Maior",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.89%",
+      "DADOS2011": "0.96%",
+      "VAR0191": " ",
+      "VAR1101": "7.87%"
+    },
+    {
+      "Concelho": "Santo Tirso",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "16.92%",
+      "DADOS2001": "2.41%",
+      "DADOS2011": "0.97%",
+      "VAR0191": "-85.76%",
+      "VAR1101": "-59.75%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Agrela",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.18%",
+      "DADOS2011": "1.78%",
+      "VAR0191": " ",
+      "VAR1101": "-18.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Água Longa",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.53%",
+      "DADOS2011": "0.94%",
+      "VAR0191": " ",
+      "VAR1101": "-62.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Areias",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.67%",
+      "DADOS2011": "0.59%",
+      "VAR0191": " ",
+      "VAR1101": "-77.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aves",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.61%",
+      "DADOS2011": "0.65%",
+      "VAR0191": " ",
+      "VAR1101": "-59.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Burgães",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.11%",
+      "DADOS2011": "1.69%",
+      "VAR0191": " ",
+      "VAR1101": "-66.93%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campo (São Martinho)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.97%",
+      "DADOS2011": "0.42%",
+      "VAR0191": " ",
+      "VAR1101": "-85.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carreira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.42%",
+      "DADOS2011": "2.96%",
+      "VAR0191": " ",
+      "VAR1101": "108.45%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Couto (Santa Cristina)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.36%",
+      "DADOS2011": "0.92%",
+      "VAR0191": " ",
+      "VAR1101": "-32.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Couto (São Miguel)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.98%",
+      "DADOS2011": "1.62%",
+      "VAR0191": " ",
+      "VAR1101": "-18.18%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guimarei",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.02%",
+      "DADOS2011": "4.33%",
+      "VAR0191": " ",
+      "VAR1101": "43.38%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lama",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.97%",
+      "DADOS2011": "0.84%",
+      "VAR0191": " ",
+      "VAR1101": "-83.1%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lamelas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.02%",
+      "DADOS2011": "1.94%",
+      "VAR0191": " ",
+      "VAR1101": "90.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Monte Córdova",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.51%",
+      "DADOS2011": "2.04%",
+      "VAR0191": " ",
+      "VAR1101": "-62.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Mamede)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.98%",
+      "DADOS2011": "0.73%",
+      "VAR0191": " ",
+      "VAR1101": "-63.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Tomé)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.4%",
+      "DADOS2011": "0.76%",
+      "VAR0191": " ",
+      "VAR1101": "-77.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Palmeira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.71%",
+      "DADOS2011": "0.87%",
+      "VAR0191": " ",
+      "VAR1101": "-67.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordões",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.59%",
+      "DADOS2011": "1.17%",
+      "VAR0191": " ",
+      "VAR1101": "-67.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Refojos de Riba de Ave",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.74%",
+      "DADOS2011": "3.99%",
+      "VAR0191": " ",
+      "VAR1101": "129.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Reguenga",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.82%",
+      "DADOS2011": "0.75%",
+      "VAR0191": " ",
+      "VAR1101": "-8.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roriz",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.14%",
+      "DADOS2011": "1.6%",
+      "VAR0191": " ",
+      "VAR1101": "-61.35%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santo Tirso",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.58%",
+      "DADOS2011": "0.2%",
+      "VAR0191": " ",
+      "VAR1101": "-65.52%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Salvador do Campo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.55%",
+      "DADOS2011": "0.26%",
+      "VAR0191": " ",
+      "VAR1101": "-94.29%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sequeiró",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.76%",
+      "DADOS2011": "0.92%",
+      "VAR0191": " ",
+      "VAR1101": "-75.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilarinho",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.18%",
+      "DADOS2011": "1.22%",
+      "VAR0191": " ",
+      "VAR1101": "-44.04%"
+    },
+    {
+      "Concelho": "São João da Madeira",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "2.61%",
+      "DADOS2001": "0.57%",
+      "DADOS2011": "0.23%",
+      "VAR0191": "-78.16%",
+      "VAR1101": "-59.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João da Madeira",
+      "Agua": "Total",
+      "DADOS1991": "2.61%",
+      "DADOS2001": "0.57%",
+      "DADOS2011": "0.23%",
+      "VAR0191": "-78.16%",
+      "VAR1101": "-59.65%"
+    },
+    {
+      "Concelho": "Trofa",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.78%",
+      "DADOS2011": "1.22%",
+      "VAR0191": "Não aplicável",
+      "VAR1101": "-31.46%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarelhos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.32%",
+      "DADOS2011": "0.92%",
+      "VAR0191": " ",
+      "VAR1101": "-60.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (Santiago)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.16%",
+      "DADOS2011": "1.51%",
+      "VAR0191": " ",
+      "VAR1101": "30.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bougado (São Martinho)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.74%",
+      "DADOS2011": "0.38%",
+      "VAR0191": " ",
+      "VAR1101": "-48.65%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Mamede)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.96%",
+      "DADOS2011": "2.21%",
+      "VAR0191": " ",
+      "VAR1101": "12.76%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Coronado (São Romão)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.98%",
+      "DADOS2011": "1.41%",
+      "VAR0191": " ",
+      "VAR1101": "-64.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.56%",
+      "DADOS2011": "3.64%",
+      "VAR0191": " ",
+      "VAR1101": "2.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guidões",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.84%",
+      "DADOS2011": "1.92%",
+      "VAR0191": " ",
+      "VAR1101": "-67.12%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Muro",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.34%",
+      "DADOS2011": "2.61%",
+      "VAR0191": " ",
+      "VAR1101": "667.65%"
+    },
+    {
+      "Concelho": "Vale de Cambra",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "21.84%",
+      "DADOS2001": "5.28%",
+      "DADOS2011": "1.76%",
+      "VAR0191": "-75.82%",
+      "VAR1101": "-66.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arões",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "14.85%",
+      "DADOS2011": "7.26%",
+      "VAR0191": " ",
+      "VAR1101": "-51.11%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cepelos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "7.3%",
+      "DADOS2011": "4.58%",
+      "VAR0191": " ",
+      "VAR1101": "-37.26%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Codal",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.7%",
+      "DADOS2011": "0.88%",
+      "VAR0191": " ",
+      "VAR1101": "-67.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "13.72%",
+      "DADOS2011": "5.18%",
+      "VAR0191": " ",
+      "VAR1101": "-62.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Cambra",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.98%",
+      "DADOS2011": "0.92%",
+      "VAR0191": " ",
+      "VAR1101": "-81.53%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roge",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.17%",
+      "DADOS2011": "2.04%",
+      "VAR0191": " ",
+      "VAR1101": "-60.54%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro de Castelões",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.99%",
+      "DADOS2011": "0.83%",
+      "VAR0191": " ",
+      "VAR1101": "-79.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.21%",
+      "DADOS2011": "0.53%",
+      "VAR0191": " ",
+      "VAR1101": "-56.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Cova de Perrinho",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "7.14%",
+      "DADOS2011": "3.27%",
+      "VAR0191": " ",
+      "VAR1101": "-54.2%"
+    },
+    {
+      "Concelho": "Valongo",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "13.6%",
+      "DADOS2001": "1.07%",
+      "DADOS2011": "0.43%",
+      "VAR0191": "-92.13%",
+      "VAR1101": "-59.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alfena",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.66%",
+      "DADOS2011": "0.53%",
+      "VAR0191": " ",
+      "VAR1101": "-68.07%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.27%",
+      "DADOS2011": "1.28%",
+      "VAR0191": " ",
+      "VAR1101": "-60.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ermesinde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.5%",
+      "DADOS2011": "0.25%",
+      "VAR0191": " ",
+      "VAR1101": "-50%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrado",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.55%",
+      "DADOS2011": "0.99%",
+      "VAR0191": " ",
+      "VAR1101": "-36.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valongo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.81%",
+      "DADOS2011": "0.26%",
+      "VAR0191": " ",
+      "VAR1101": "-67.9%"
+    },
+    {
+      "Concelho": "Vila do Conde",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "16.52%",
+      "DADOS2001": "1.64%",
+      "DADOS2011": "0.88%",
+      "VAR0191": "-90.07%",
+      "VAR1101": "-46.34%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcos",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.87%",
+      "DADOS2011": "0.8%",
+      "VAR0191": " ",
+      "VAR1101": "-8.05%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Árvore",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.86%",
+      "DADOS2011": "0.81%",
+      "VAR0191": " ",
+      "VAR1101": "-5.81%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aveleda",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.54%",
+      "DADOS2011": "3.47%",
+      "VAR0191": " ",
+      "VAR1101": "-1.98%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Azurara",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.23%",
+      "DADOS2011": "1.1%",
+      "VAR0191": " ",
+      "VAR1101": "-10.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bagunte",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.61%",
+      "DADOS2011": "1.28%",
+      "VAR0191": " ",
+      "VAR1101": "-20.5%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.68%",
+      "DADOS2011": "2.55%",
+      "VAR0191": " ",
+      "VAR1101": "-30.71%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajozes",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.82%",
+      "DADOS2011": "1.07%",
+      "VAR0191": " ",
+      "VAR1101": "-62.06%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ferreiró",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.55%",
+      "DADOS2011": "0.94%",
+      "VAR0191": " ",
+      "VAR1101": "70.91%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.42%",
+      "DADOS2011": "2.63%",
+      "VAR0191": " ",
+      "VAR1101": "8.68%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.46%",
+      "DADOS2011": "0.89%",
+      "VAR0191": " ",
+      "VAR1101": "93.48%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guilhabreu",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.85%",
+      "DADOS2011": "1.09%",
+      "VAR0191": " ",
+      "VAR1101": "28.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.3%",
+      "DADOS2011": "1.72%",
+      "VAR0191": " ",
+      "VAR1101": "32.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Labruge",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.16%",
+      "DADOS2011": "0.74%",
+      "VAR0191": " ",
+      "VAR1101": "-76.58%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira da Maia",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.98%",
+      "DADOS2011": "1.98%",
+      "VAR0191": " ",
+      "VAR1101": "0%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Malta",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.18%",
+      "DADOS2011": "0.65%",
+      "VAR0191": " ",
+      "VAR1101": "-79.56%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mindelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.16%",
+      "DADOS2011": "1.27%",
+      "VAR0191": " ",
+      "VAR1101": "-41.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Modivas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.36%",
+      "DADOS2011": "0.84%",
+      "VAR0191": " ",
+      "VAR1101": "133.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mosteiró",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "5.67%",
+      "DADOS2011": "3.86%",
+      "VAR0191": " ",
+      "VAR1101": "-31.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Outeiro Maior",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.11%",
+      "DADOS2011": "0%",
+      "VAR0191": " ",
+      "VAR1101": "-100%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.05%",
+      "DADOS2011": "2.13%",
+      "VAR0191": " ",
+      "VAR1101": "102.86%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Retorta",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.86%",
+      "DADOS2011": "1.53%",
+      "VAR0191": " ",
+      "VAR1101": "-60.36%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Mau",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.99%",
+      "DADOS2011": "1.76%",
+      "VAR0191": " ",
+      "VAR1101": "-64.73%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tougues",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.28%",
+      "DADOS2011": "1.08%",
+      "VAR0191": " ",
+      "VAR1101": "-15.63%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Touguinha",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.4%",
+      "DADOS2011": "0.17%",
+      "VAR0191": " ",
+      "VAR1101": "-92.92%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Touguinhó",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.25%",
+      "DADOS2011": "1.37%",
+      "VAR0191": " ",
+      "VAR1101": "448%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vairão",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.44%",
+      "DADOS2011": "2.3%",
+      "VAR0191": " ",
+      "VAR1101": "-48.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.16%",
+      "DADOS2011": "0.67%",
+      "VAR0191": " ",
+      "VAR1101": "-42.24%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila do Conde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.7%",
+      "DADOS2011": "0.08%",
+      "VAR0191": " ",
+      "VAR1101": "-88.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.64%",
+      "DADOS2011": "1.99%",
+      "VAR0191": " ",
+      "VAR1101": "-24.62%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Pinheiro",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "4.61%",
+      "DADOS2011": "2.28%",
+      "VAR0191": " ",
+      "VAR1101": "-50.54%"
+    },
+    {
+      "Concelho": "Vila Nova de Gaia",
+      "Freguesia": "Concelho",
+      "Agua": "Total",
+      "DADOS1991": "13.32%",
+      "DADOS2001": "1.32%",
+      "DADOS2011": "0.6%",
+      "VAR0191": "-90.09%",
+      "VAR1101": "-54.55%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcozelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.83%",
+      "DADOS2011": "0.72%",
+      "VAR0191": " ",
+      "VAR1101": "-13.25%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avintes",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3.45%",
+      "DADOS2011": "1.41%",
+      "VAR0191": " ",
+      "VAR1101": "-59.13%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.4%",
+      "DADOS2011": "0.37%",
+      "VAR0191": " ",
+      "VAR1101": "-73.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.12%",
+      "DADOS2011": "0.48%",
+      "VAR0191": " ",
+      "VAR1101": "-57.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Crestuma",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.81%",
+      "DADOS2011": "0.92%",
+      "VAR0191": " ",
+      "VAR1101": "-49.17%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Grijó",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.84%",
+      "DADOS2011": "1.68%",
+      "VAR0191": " ",
+      "VAR1101": "-40.85%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gulpilhares",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.45%",
+      "DADOS2011": "0.48%",
+      "VAR0191": " ",
+      "VAR1101": "-66.9%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lever",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.46%",
+      "DADOS2011": "0.54%",
+      "VAR0191": " ",
+      "VAR1101": "-63.01%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.56%",
+      "DADOS2011": "0.76%",
+      "VAR0191": " ",
+      "VAR1101": "-70.31%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mafamude",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.18%",
+      "DADOS2011": "0.18%",
+      "VAR0191": " ",
+      "VAR1101": "0%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Olival",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.28%",
+      "DADOS2011": "0.31%",
+      "VAR0191": " ",
+      "VAR1101": "-75.78%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira do Douro",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.13%",
+      "DADOS2011": "0.47%",
+      "VAR0191": " ",
+      "VAR1101": "-58.41%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedroso",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.38%",
+      "DADOS2011": "1.65%",
+      "VAR0191": " ",
+      "VAR1101": "-30.67%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Perozinho",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.34%",
+      "DADOS2011": "1.31%",
+      "VAR0191": " ",
+      "VAR1101": "-44.02%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sandim",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.27%",
+      "DADOS2011": "0.89%",
+      "VAR0191": " ",
+      "VAR1101": "-60.79%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Félix da Marinha",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "3%",
+      "DADOS2011": "1.16%",
+      "VAR0191": " ",
+      "VAR1101": "-61.33%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro da Afurada",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.84%",
+      "DADOS2011": "0.07%",
+      "VAR0191": " ",
+      "VAR1101": "-96.2%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Seixezelo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.82%",
+      "DADOS2011": "0.33%",
+      "VAR0191": " ",
+      "VAR1101": "-81.87%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sermonde",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.28%",
+      "DADOS2011": "0.43%",
+      "VAR0191": " ",
+      "VAR1101": "53.57%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Serzedo",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "2.25%",
+      "DADOS2011": "0.58%",
+      "VAR0191": " ",
+      "VAR1101": "-74.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valadares",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.71%",
+      "DADOS2011": "0.45%",
+      "VAR0191": " ",
+      "VAR1101": "-36.62%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova de Gaia (Santa Marinha)",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.35%",
+      "DADOS2011": "0.15%",
+      "VAR0191": " ",
+      "VAR1101": "-57.14%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Andorinho",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "0.93%",
+      "DADOS2011": "0.37%",
+      "VAR0191": " ",
+      "VAR1101": "-60.22%"
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar do Paraíso",
+      "Agua": "Total",
+      "DADOS1991": " ",
+      "DADOS2001": "1.13%",
+      "DADOS2011": "0.58%",
+      "VAR0191": " ",
+      "VAR1101": "-48.67%"
+    }
+  ]
