@@ -1,4 +1,4 @@
-  [
+   [
     {
       "Concelho": "Área Metropolitana do Porto",
       "Freguesia": "Área Metropolitana do Porto",
@@ -58,109 +58,292 @@
     {
       "Concelho": " ",
       "Freguesia": "Alvarenga",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Chave",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Escariz",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Fermedo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Mansores",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Moldes",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Rossas",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Santa Eulália",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "São Miguel do Mato",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Tropeço",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Arouca e Burgo",
       "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
       "P2SEM2018": "40.1%",
       "P1SEM2019": "39.67%",
+      "P2SEM2019": " ",
       "P1SEM2020": "34.8%",
       "P2SEM2020": "37.88%",
       "P1SEM2021": "34.71%",
@@ -170,7 +353,11 @@
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
       "P1SEM2019": "49.59%",
+      "P2SEM2019": " ",
       "P1SEM2020": "43.51%",
       "P2SEM2020": "47.34%",
       "P1SEM2021": "43.38%",
@@ -179,52 +366,142 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Cabreiros e Albergaria da Serra",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Canelas e Espiunca",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Covelo de Paivó e Janarde",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Urrô",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Várzea",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "Espinho",
@@ -285,24 +562,58 @@
     {
       "Concelho": " ",
       "Freguesia": "Paramos",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Silvalde",
       "TaxaEsforco": "80m²",
-      "P2SEM2017": "39.5%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2017": "49.37%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silvalde",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": "39.5%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": "49.37%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -391,12 +702,30 @@
     {
       "Concelho": " ",
       "Freguesia": "Lomba",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -457,12 +786,30 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Foz do Sousa e Covelo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -495,12 +842,30 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Melres e Medas",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "Maia",
@@ -617,22 +982,58 @@
     {
       "Concelho": " ",
       "Freguesia": "Folgosa",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Milheirós",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -671,6 +1072,7 @@
       "P2SEM2018": "36.4%",
       "P1SEM2019": "36.27%",
       "P2SEM2019": "40.87%",
+      "P1SEM2020": " ",
       "P2SEM2020": "41.26%",
       "P1SEM2021": "43.89%",
       "P2SEM2021": "42.5%"
@@ -684,6 +1086,7 @@
       "P2SEM2018": "45.5%",
       "P1SEM2019": "45.34%",
       "P2SEM2019": "51.09%",
+      "P1SEM2020": " ",
       "P2SEM2020": "51.58%",
       "P1SEM2021": "54.87%",
       "P2SEM2021": "53.12%"
@@ -719,12 +1122,30 @@
     {
       "Concelho": " ",
       "Freguesia": "São Pedro Fins",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -734,7 +1155,11 @@
       "P1SEM2018": "35.33%",
       "P2SEM2018": "44.18%",
       "P1SEM2019": "41.02%",
-      "P2SEM2020": "36%"
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "36%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -744,7 +1169,11 @@
       "P1SEM2018": "44.16%",
       "P2SEM2018": "55.23%",
       "P1SEM2019": "51.27%",
-      "P2SEM2020": "45%"
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "45%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "Matosinhos",
@@ -917,96 +1346,254 @@
     {
       "Concelho": " ",
       "Freguesia": "Carregosa",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Cesar",
       "TaxaEsforco": "80m²",
-      "P2SEM2017": "26.1%"
+      "P2SEM2017": "26.1%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2017": "32.62%"
+      "P2SEM2017": "32.62%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Fajões",
       "TaxaEsforco": "80m²",
-      "P2SEM2020": "23.95%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "23.95%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2020": "29.94%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "29.94%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Loureiro",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Macieira de Sarnes",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Ossela",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "São Martinho da Gândara",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "São Roque",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Nogueira do Cravo e Pindelo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1039,12 +1626,30 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1105,74 +1710,198 @@
     {
       "Concelho": " ",
       "Freguesia": "Aguiar de Sousa",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Astromil",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Baltar",
       "TaxaEsforco": "80m²",
-      "P2SEM2017": "35.79%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2017": "44.74%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Astromil",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baltar",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": "35.79%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": "44.74%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Beire",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Cete",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Cristelo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Duas Igrejas",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1207,6 +1936,7 @@
       "Freguesia": "Lordelo",
       "TaxaEsforco": "80m²",
       "P2SEM2017": "30.37%",
+      "P1SEM2018": " ",
       "P2SEM2018": "29.18%",
       "P1SEM2019": "27.63%",
       "P2SEM2019": "29.17%",
@@ -1220,6 +1950,7 @@
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
       "P2SEM2017": "37.96%",
+      "P1SEM2018": " ",
       "P2SEM2018": "36.47%",
       "P1SEM2019": "34.53%",
       "P2SEM2019": "36.47%",
@@ -1231,22 +1962,58 @@
     {
       "Concelho": " ",
       "Freguesia": "Louredo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Parada de Todeia",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1282,6 +2049,7 @@
       "TaxaEsforco": "80m²",
       "P2SEM2017": "28.45%",
       "P1SEM2018": "32.01%",
+      "P2SEM2018": " ",
       "P1SEM2019": "27.01%",
       "P2SEM2019": "28.86%",
       "P1SEM2020": "27.89%",
@@ -1295,6 +2063,7 @@
       "TaxaEsforco": "100m²",
       "P2SEM2017": "35.56%",
       "P1SEM2018": "40.01%",
+      "P2SEM2018": " ",
       "P1SEM2019": "33.76%",
       "P2SEM2019": "36.08%",
       "P1SEM2020": "34.87%",
@@ -1305,56 +2074,142 @@
     {
       "Concelho": " ",
       "Freguesia": "Recarei",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Sobreira",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Sobrosa",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Vandoma",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Vilela",
       "TaxaEsforco": "80m²",
-      "P1SEM2020": "25.22%",
-      "P2SEM2020": "25.22%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobreira",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrosa",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vandoma",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilela",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": "25.22%",
+      "P2SEM2020": "25.22%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
       "P1SEM2020": "31.53%",
-      "P2SEM2020": "31.53%"
+      "P2SEM2020": "31.53%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "Porto",
@@ -1611,42 +2466,114 @@
     {
       "Concelho": " ",
       "Freguesia": "Balazar",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Estela",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Laundos",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Rates",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1679,12 +2606,30 @@
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Aguçadoura e Navais",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1750,7 +2695,11 @@
       "P1SEM2018": "28.3%",
       "P2SEM2018": "28.21%",
       "P1SEM2019": "29.1%",
-      "P2SEM2020": "28.06%"
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "28.06%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1760,7 +2709,11 @@
       "P1SEM2018": "35.38%",
       "P2SEM2018": "35.26%",
       "P1SEM2019": "36.38%",
-      "P2SEM2020": "35.08%"
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "35.08%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1772,7 +2725,9 @@
       "P1SEM2019": "33.47%",
       "P2SEM2019": "33.82%",
       "P1SEM2020": "31.74%",
-      "P2SEM2020": "30.55%"
+      "P2SEM2020": "30.55%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1784,17 +2739,37 @@
       "P1SEM2019": "41.83%",
       "P2SEM2019": "42.28%",
       "P1SEM2020": "39.68%",
-      "P2SEM2020": "38.18%"
+      "P2SEM2020": "38.18%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Escapães",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1803,8 +2778,12 @@
       "P2SEM2017": "29.59%",
       "P1SEM2018": "29.87%",
       "P2SEM2018": "31.82%",
+      "P1SEM2019": " ",
       "P2SEM2019": "35.69%",
-      "P1SEM2020": "35.68%"
+      "P1SEM2020": "35.68%",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1813,18 +2792,40 @@
       "P2SEM2017": "36.99%",
       "P1SEM2018": "37.34%",
       "P2SEM2018": "39.77%",
+      "P1SEM2019": " ",
       "P2SEM2019": "44.61%",
-      "P1SEM2020": "44.6%"
+      "P1SEM2020": "44.6%",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Fornos",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1858,13 +2859,29 @@
       "Concelho": " ",
       "Freguesia": "Milheirós de Poiares",
       "TaxaEsforco": "80m²",
-      "P1SEM2018": "28.3%"
+      "P2SEM2017": " ",
+      "P1SEM2018": "28.3%",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P1SEM2018": "35.38%"
+      "P2SEM2017": " ",
+      "P1SEM2018": "35.38%",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -1899,76 +2916,168 @@
       "Freguesia": "Nogueira da Regedoura",
       "TaxaEsforco": "80m²",
       "P2SEM2017": "33.98%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
       "P1SEM2020": "33.97%",
-      "P2SEM2020": "35.85%"
+      "P2SEM2020": "35.85%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
       "P2SEM2017": "42.47%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
       "P1SEM2020": "42.46%",
-      "P2SEM2020": "44.81%"
+      "P2SEM2020": "44.81%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Paços de Brandão",
       "TaxaEsforco": "80m²",
       "P2SEM2017": "28.73%",
+      "P1SEM2018": " ",
       "P2SEM2018": "32.83%",
-      "P1SEM2019": "31.77%"
+      "P1SEM2019": "31.77%",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
       "P2SEM2017": "35.91%",
+      "P1SEM2018": " ",
       "P2SEM2018": "41.04%",
-      "P1SEM2019": "39.72%"
+      "P1SEM2019": "39.72%",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Rio Meão",
       "TaxaEsforco": "80m²",
-      "P2SEM2017": "29.49%"
+      "P2SEM2017": "29.49%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2017": "36.87%"
+      "P2SEM2017": "36.87%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Romariz",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Sanguedo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Santa Maria de Lamas",
       "TaxaEsforco": "80m²",
-      "P2SEM2020": "35.34%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "35.34%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2020": "44.17%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "44.17%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2001,28 +3110,68 @@
     {
       "Concelho": " ",
       "Freguesia": "São Paio de Oleiros",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Caldas de São Jorge e Pigeiros",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Canedo, Vale e Vila Maior",
       "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
       "P2SEM2018": "25.9%",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
       "P1SEM2020": "27.12%",
       "P2SEM2020": "27.21%",
       "P1SEM2021": "28.9%",
@@ -2032,7 +3181,11 @@
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
       "P2SEM2018": "32.37%",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
       "P1SEM2020": "33.9%",
       "P2SEM2020": "34.01%",
       "P1SEM2021": "36.13%",
@@ -2100,7 +3253,13 @@
       "TaxaEsforco": "80m²",
       "P2SEM2017": "26.34%",
       "P1SEM2018": "25.25%",
-      "P2SEM2018": "25.34%"
+      "P2SEM2018": "25.34%",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2108,7 +3267,13 @@
       "TaxaEsforco": "100m²",
       "P2SEM2017": "32.93%",
       "P1SEM2018": "31.56%",
-      "P2SEM2018": "31.68%"
+      "P2SEM2018": "31.68%",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "Santo Tirso",
@@ -2141,22 +3306,58 @@
     {
       "Concelho": " ",
       "Freguesia": "Agrela",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Água Longa",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2168,92 +3369,247 @@
       "P1SEM2019": "27.98%",
       "P2SEM2019": "28.25%",
       "P1SEM2020": "26.9%",
-      "P2SEM2020": "26.3%"
+      "P2SEM2020": "26.3%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Monte Córdova",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Negrelos (São Tomé)",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Rebordões",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Reguenga",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Roriz",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Areias, Sequeiró, Lama e Palmeira",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Carreira e Refojos de Riba de Ave",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Lamelas e Guimarei",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2286,24 +3642,58 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilarinho",
-      "TaxaEsforco": "80m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": " ",
-      "TaxaEsforco": "100m²"
-    },
-    {
-      "Concelho": " ",
-      "Freguesia": "Vila Nova do Campo",
       "TaxaEsforco": "80m²",
-      "P2SEM2020": "22.52%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2020": "28.15%"
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova do Campo",
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "22.52%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": "28.15%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "São João da Madeira",
@@ -2392,32 +3782,86 @@
     {
       "Concelho": " ",
       "Freguesia": "Covelas",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Muro",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Alvarelhos e Guidões",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2457,6 +3901,8 @@
       "P1SEM2019": "33.59%",
       "P2SEM2019": "37.06%",
       "P1SEM2020": "34.3%",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
       "P2SEM2021": "33.18%"
     },
     {
@@ -2469,6 +3915,8 @@
       "P1SEM2019": "41.99%",
       "P2SEM2019": "46.32%",
       "P1SEM2020": "42.88%",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
       "P2SEM2021": "41.47%"
     },
     {
@@ -2502,52 +3950,142 @@
     {
       "Concelho": " ",
       "Freguesia": "Arões",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Cepelos",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Junqueira",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Macieira de Cambra",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Roge",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2556,7 +4094,11 @@
       "P2SEM2017": "24.72%",
       "P1SEM2018": "26.48%",
       "P2SEM2018": "28%",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
       "P2SEM2020": "28.03%",
+      "P1SEM2021": " ",
       "P2SEM2021": "26.86%"
     },
     {
@@ -2566,7 +4108,11 @@
       "P2SEM2017": "30.89%",
       "P1SEM2018": "33.1%",
       "P2SEM2018": "35%",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
       "P2SEM2020": "35.04%",
+      "P1SEM2021": " ",
       "P2SEM2021": "33.57%"
     },
     {
@@ -2774,7 +4320,10 @@
       "P2SEM2018": "33.32%",
       "P1SEM2019": "35.14%",
       "P2SEM2019": "40.03%",
-      "P1SEM2020": "39.73%"
+      "P1SEM2020": "39.73%",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -2785,195 +4334,514 @@
       "P2SEM2018": "41.64%",
       "P1SEM2019": "43.93%",
       "P2SEM2019": "50.04%",
-      "P1SEM2020": "49.66%"
+      "P1SEM2020": "49.66%",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Aveleda",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Azurara",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Fajozes",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Gião",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Guilhabreu",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Junqueira",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Labruge",
       "TaxaEsforco": "80m²",
-      "P2SEM2017": "39.75%"
+      "P2SEM2017": "39.75%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
-      "P2SEM2017": "49.68%"
+      "P2SEM2017": "49.68%",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Macieira da Maia",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Mindelo",
       "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
       "P2SEM2019": "47.49%",
       "P1SEM2020": "42.68%",
-      "P2SEM2020": "38.33%"
+      "P2SEM2020": "38.33%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
       "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
       "P2SEM2019": "59.36%",
       "P1SEM2020": "53.34%",
-      "P2SEM2020": "47.92%"
+      "P2SEM2020": "47.92%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Modivas",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Fornelo e Vairão",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Malta e Canidelo",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Retorta e Tougues",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Rio Mau e Arcos",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Touguinha e Touguinhó",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "União das freguesias de Vilar e Mosteiró",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": "Vila Chã",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -3006,12 +4874,30 @@
     {
       "Concelho": " ",
       "Freguesia": "Vilar de Pinheiro",
-      "TaxaEsforco": "80m²"
+      "TaxaEsforco": "80m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
       "Freguesia": " ",
-      "TaxaEsforco": "100m²"
+      "TaxaEsforco": "100m²",
+      "P2SEM2017": " ",
+      "P1SEM2018": " ",
+      "P2SEM2018": " ",
+      "P1SEM2019": " ",
+      "P2SEM2019": " ",
+      "P1SEM2020": " ",
+      "P2SEM2020": " ",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": "Vila Nova de Gaia",
@@ -3359,7 +5245,9 @@
       "P1SEM2019": "30.12%",
       "P2SEM2019": "32.64%",
       "P1SEM2020": "27.14%",
-      "P2SEM2020": "26.67%"
+      "P2SEM2020": "26.67%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
@@ -3371,7 +5259,9 @@
       "P1SEM2019": "37.65%",
       "P2SEM2019": "40.8%",
       "P1SEM2020": "33.93%",
-      "P2SEM2020": "33.34%"
+      "P2SEM2020": "33.34%",
+      "P1SEM2021": " ",
+      "P2SEM2021": " "
     },
     {
       "Concelho": " ",
